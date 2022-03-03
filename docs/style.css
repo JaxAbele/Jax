@@ -1,0 +1,51 @@
+body {
+background-color: #ff8c00;
+color:white;
+}
+body#resume {
+    background-color:darkturquoise;
+    color:white;
+}
+
+ nav > ul.menuB {
+ list-style-type: none;
+}
+
+nav ul.menuB li {
+  display:inline;
+  font-size: 1.5vw; /*padding:2vw;*/
+  padding-left:1vw;
+  padding-right:1vw;
+  padding-top:5vw;
+  padding-bottom:10vw;
+}
+
+h1 {
+    border: 3px solid DarkOrange;
+    margin: 50px;
+    text-align: center;
+}
+body#resume h1 {
+    border: 3px solid DarkOrange;
+    margin: 50px;
+    text-align: center;
+    color:black;
+    width: 60%;
+    margin:2em auto;
+}
+img {
+    border: 3px solid Black;
+    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section.resume {
+    background-color:white;
+    color:black;
+    margin:auto;
+    padding:2em;
+    line-height:1.75em;
+    width: 60%;
+    border: 3px solid Black; 
+}
