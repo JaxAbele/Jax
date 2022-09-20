@@ -1,0 +1,9 @@
+start = root
+root = element root{title,author,stanza+}
+title = element title{empty}
+author = element author{birthyear}
+birthyear = element birthyear{empty}
+stanza = element stanza{n+,beauty,human}
+n = attribute n{"1","2","3"}
+beauty = element beauty{empty}
+human = element human{empty}
