@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="xml2schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <title>Leaves</title>
     <author>Lloyd Schwartz - <birthyear>1941-</birthyear></author>

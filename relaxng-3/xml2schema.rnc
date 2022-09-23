@@ -1,0 +1,9 @@
+start = root
+root = element root{title,author,stanza+}
+title = element title{text}
+author = element author{mixed{birthyear}}
+birthyear = element birthyear{text}
+stanza = element stanza{n, mixed{(beauty|human)*}}#use paranthesis to signify use more than once
+n = attribute n{xsd:integer}#change datatype
+beauty = element beauty{text}
+human = element human{text}
