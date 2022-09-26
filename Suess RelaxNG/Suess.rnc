@@ -1,0 +1,8 @@
+start = root
+root = element root{title,stanza+}
+title = element title{text}
+stanza = element stanza{n,mixed{(creature|rep|char)*}}
+n = attribute n{xsd:integer}
+creature = element creature{text}
+rep = element rep{text}
+char = element char{text}
