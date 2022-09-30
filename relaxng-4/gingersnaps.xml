@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="cookie.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<title>Gingersnaps</title>
+
+<desc>These crunchy, spicy rounds with their cracked, sugary tops are equally at home dunked in tea, coffee, or milk, and frequently enjoyed during the November/December holiday season. But they're just as welcome on a mellow, golden, late-September afternoon, with a comfortable lounge chair and a large glass of fresh-squeezed lemonade.</desc>
+<time><preptime>Prep
+12 mins</preptime>
+<baketime>Bake
+11 to 13 mins</baketime>
+<totaltime>Total
+23 mins</totaltime></time>
+<yield>Yield
+about 5 dozen cookies</yield>
+<ingredients>Gingersnaps
+Ingredients
+
+<cookie>Cookies
+
+<ingred id="shortening" cup='.75' g='138'>3/4 cup (138g) vegetable shortening* shortening</ingred>
+<ingred id='sugar' cup='1' g='198'>1 cup (198g) granulated sugar</ingred>
+<ingred id='salt' teaspoon='.5'>1/2 teaspoon salt</ingred>
+<ingred id='soda' teaspoon='2'>2 teaspoons baking soda</ingred>
+<ingred id='egg' number='1'>1 large egg</ingred>
+<ingred id='molasses' cup='.33' g='113'>1/3 cup (113g) molasses</ingred>
+<ingred id='flour' cup='2.33' g='280'>2 1/3 cups (280g) King Arthur Unbleached All-Purpose Flour</ingred>
+<ingred id='ginger' teaspoon='1-2'>1 to 2 teaspoons ginger</ingred>
+<ingred id='cloves' teaspoon='.5'>1/2 teaspoon cloves</ingred>
+<ingred id='cinnamon' teaspoon='1'>1 teaspoon cin
+<coating>Coating
+
+<ingred id='sugar' cup='.25' g='50'>1/4 cup (50g) granulated sugar</ingred>
+<ingred id='cinnamon' teaspoon='1'>1 teaspoon cinnamon</ingred></coating></ingredients>
+namon</ingred></cookie>
+
+*Can you substitute butter for the vegetable shortening? Yes; but the cookies will be soft, not crisp.
+
+<instructions>Instructions
+
+<step n='1'>Preheat the oven to 375°F. Lightly grease (or line with parchment) two baking sheets.</step>
+
+<step n='2'>Beat together the <ingred id='shortening'>shortening</ingred>, <ingred id='sugar'>sugar</ingred>, <ingred id='salt'>salt</ingred>, and <ingred id='soda'>baking soda</ingred>.</step>
+
+<step n='3'>Beat in the <ingred id='egg'>egg</ingred>, then the <ingred id='molasses'>molasses</ingred>.</step>
+
+<step n='4'>Add the <ingred id='flour'>flour</ingred> and <ingred id='ginger' id='cloves' id='cinnamon'>spices</ingred>, beating to make a smooth, fairly stiff dough.</step>
+
+<step n='5'>To make the coating, combine the <ingred id='sugar'>sugar</ingred> and <ingred id='cinnamon'>cinnamon</ingred>, and place in a shallow pan or dish.</step>
+
+<step n='6'>Drop the dough in 1" balls into the <ingred id='cinnamon'>cinnamon</ingred>-<ingred id='sugar'>sugar</ingred> mixture; a teaspoon cookie scoop is perfect here.</step>
+
+<step n='7'>Roll the balls in the <ingred id='sugar'>sugar</ingred> to coat, then transfer them to the prepared baking sheets, leaving at least 1 1/2" between them; they'll spread as they bake.</step>
+
+<step n='8'>Bake the cookies for 11 minutes, for cookies that are crisp around the edges, and "bendy" in the center. Bake for 13 minutes, for cookies that are crisp/crunchy all the way through.</step>
+
+<step n='9'>Remove the cookies from the oven, and cool right on the pan, or on a rack. Cool completely, then store tightly wrapped, at room temperature.</step></instructions>
+</xml>
