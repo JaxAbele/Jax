@@ -21,6 +21,7 @@ nlp = spacy.load('en_core_web_lg')
 ##################################################################################
 CollPath = 'source_xml'
 TargetPath = 'output'
+XSLTPath = 'output_XSLT'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -188,6 +189,7 @@ def assembleAllNames(CollPath):
             sourcePath = f"{CollPath}/{file}"
             eachFileData = xmlTagger(sourcePath, SortedDict)
             # ebb: In the lines above, we send to the xmlTagger to add the nlp info as XML elements and attributes to the source files.
+            # cleanEachFile = xsltCleaner(eachFileData)
     return eachFileData
     # Python functions don't really need to have return lines, but we can set the return to the function's most important output.
 
@@ -216,8 +218,27 @@ def xmlTagger(sourcePath, SortedDict):
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w', encoding='utf8') as f:
             f.write(stringFile)
+    return(targetFile)
+def xsltCleaner(cleaningPath):
+    for file in os.listdir(TargetPath):
+        if file.endswith(".xml"):
+            cleaningPath = f"{TargetPath}/{file}"
+            filename = os.path.basename(cleaningPath.name)
 
-assembleAllNames(CollPath)
+            with PySaxonProcessor(license=False) as proc:
+                xml = open(cleaningPath, encoding='utf-8').read()
+                xsltproc = proc.new_xslt30_processor()
+                output = xsltproc.compile_stylesheet(stylesheet_file="posTag-Cleanup.xsl.xsl", save=True, output_file=f"XSLTPath/{filename}")
+                return output
+
+
+
+
+
+
+assembledFiles = assembleAllNames(CollPath)
+xsltCleaner(assembledFiles)
+
 
 # ebb: The functions are all initiated here now.
 # This just delivers the collection path up to the first function in the sequence.

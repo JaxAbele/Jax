@@ -18,7 +18,7 @@ Avenger : ORG
 BACARA : ORG
 BAIL : ORG
 BANA BREEMU : ORG
-BATTLE : ORG
+BATTLE : GPE
 BATTLE DROIDS : ORG
 BATTLESHIP : ORG
 BLY : ORG
@@ -35,15 +35,14 @@ Bespin : GPE
 Bib Fortuna : ORG
 Bubble City : GPE
 CHEER : ORG
-CHEWBACCA : ORG
+CHEWBACCA : GPE
 CHI EEKWAY : ORG
 CLONES : ORG
 CREW : ORG
 CRY : ORG
 Chamber : ORG
 Chewbacca : GPE
-Cloud City : GPE
-Cord� : GPE
+Cloud City : FAC
 Corellian : NORP
 Coruscant : GPE
 Council : ORG
@@ -68,12 +67,12 @@ Droids : ORG
 EIRTAE : ORG
 ELLE : ORG
 EMBRYOS : ORG
-EMPEROR : GPE
+EMPEROR : ORG
 ENDThere : ORG
 ENGINES : ORG
 EOPIE : ORG
 EOPIES : ORG
-EXPLOSION : ORG
+EXPLOSION : GPE
 Elle : ORG
 Emergency Fire Speeders : ORG
 Empire : ORG
@@ -153,7 +152,6 @@ JOBAL : ORG
 JOCASTA NU : ORG
 Jedi Kights : GPE
 Jedi Temple : ORG
-Jedi�s : GPE
 Jerjerrod : ORG
 KAADU : ORG
 KAADUS : ORG
@@ -371,11 +369,12 @@ WOOKIEE : ORG
 Wampa : ORG
 Watto : ORG
 Wedge : ORG
-Wookiee : NORP
+Wookiee : ORG
 XELBREE : ORG
 YOUNGLINGS : ORG
 Yavin : GPE
 ZAM : ORG
+ZAM�S : ORG
 ZETT JUKASSA : ORG
 Zuckuss : ORG
 a COUPLE OF CLONES : ORG
@@ -394,7 +393,6 @@ laserbolt : ORG
 lifepod : GPE
 mesa : ORG
 moon : LOC
-passenger�s : ORG
 postOBI : ORG
 ptay : GPE
 reptilian : NORP
@@ -406,6 +404,7 @@ the BATTLE : ORG
 the BATTLE DROIDS : ORG
 the BUZZ : ORG
 the Banking Clan : ORG
+the Bounty Hunter�s : LOC
 the Briefing Room : FAC
 the CLONE SERGEANT : ORG
 the Command Ship : FAC
