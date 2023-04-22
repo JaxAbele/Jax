@@ -55,10 +55,10 @@ closer to one of the battleships.</sd>
 	Ambassador...Happy to.</sp>
       <sd>The screen goes black. Out the cockpit window, the sinister
 battleship looms ever closer.</sd>
-      <setting>EXT. FEDERATION <name type="ORG">BATTLE</name>SHIP - DOC<name type="GPE">KI</name>NG BAY - SPACE (FX)</setting>
+      <setting>EXT. FEDERATION <name type="GPE">BATTLE</name>SHIP - DOC<name type="GPE">KI</name>NG BAY - SPACE (FX)</setting>
       <sd>The small space cruiser docks in the enormous main bay of
 the <name type="ORG">Federation</name> battleship.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - DOC<name type="GPE">KI</name>NG BAY - SPACE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - DOC<name type="GPE">KI</name>NG BAY - SPACE</setting>
       <sd>A <name type="ORG">PROTOCOL</name> DROID, TC-14, waits at the door to the docking
 bay. Two WORKER <name type="ORG">DROIDS</name>, PK-4 and EG-9 watch.</sd>
       <sp>
@@ -80,7 +80,7 @@ docking bay.  Two darkly robed figures are greeted by TC-14.</sd>
       <sp>
          <speaker>PK-4</speaker>
 	I'm not made to think.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
       <sd>A door slides open, and the two cloaked shapes are led PAST
 CAMERA into the formal conference room by TC-14.</sd>
       <sp>
@@ -141,7 +141,7 @@ door.</sd>
          </speaker>
 	These <name type="ORG">Federation</name> types are cowards.
 	The negotiations will be short.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>
          <name type="ORG">NU</name>TE GUNRAY and DAULTRAY <name type="NORP">DOFINE</name> stand, stunned, before TC-
 14.</sd>
@@ -176,7 +176,7 @@ door.</sd>
 	there with two Jedi! Send the droid.</sp>
       <sd>
          <name type="NORP">Dofine</name> turns to TC-14, who lets out a squeaky sigh.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker>
@@ -192,7 +192,7 @@ with a tray of drinks and food.</sd>
 	fear for something as trivial as
 	this dispute.</sp>
       <sd>Obi-Wan takes a drink.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>Nute, <name type="NORP">Dofine</name>, and Rune Haako are before the hologram of Darth
 Sidious, a robed figure whose face is obscured by a hood.</sd>
       <sp>
@@ -257,9 +257,9 @@ and see a gun turret swing around and point directly at them.</sd>
       <sp>
          <speaker>CAPTAIN</speaker>
 	No! Warn...</sp>
-      <setting>EXT. FEDERATION <name type="ORG">BATTLE</name>SHIP - HANGER BAY</setting>
+      <setting>EXT. FEDERATION <name type="GPE">BATTLE</name>SHIP - HANGER BAY</setting>
       <sd>The battle gun fires. The <name type="ORG">Republic Cruiser</name> explodes.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
       <sd>Gui-Gon and Obi-Wan leap up to a standing position with their
 light sabers drawn. TC-14 jumps back, startled, spilling the
 drinks tray.</sd>
@@ -275,8 +275,8 @@ A faint hissing sound can be heard.</sd>
       <sd>Qui-Gon and Obi-Wan each taken a sudden deep breath and
 holding it.  The exotic bird-like creatures in the cage dorp
 dead.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - HALLWAY</setting>
-      <sd>A hologram of <name type="ORG">NU</name>TE , surrounded by <name type="ORG">BATTLE</name>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - HALLWAY</setting>
+      <sd>A hologram of <name type="ORG">NU</name>TE , surrounded by <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>, appears in
 the conference room hallway.</sd>
       <sp>
@@ -284,9 +284,9 @@ the conference room hallway.</sd>
             <name type="ORG">NU</name>TE</speaker>
 	They must be dead by now. Blast,
 	what's left of them.</sp>
-      <sd>The hologram fades off, as a <name type="ORG">BATTLE</name> DROID, OWO-1, cautiously
+      <sd>The hologram fades off, as a <name type="GPE">BATTLE</name> DROID, OWO-1, cautiously
 opens the door. A deadly green cloud billows from the room.
-<name type="ORG">BATTLE</name>
+<name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> cock their weapons as a figure stumbles out of
 the smoke. It is TC-14 , carrying the tray of drinks.</sd>
       <sp>
@@ -294,9 +294,9 @@ the smoke. It is TC-14 , carrying the tray of drinks.</sd>
 	Oh, excuse me, so sorry.</sp>
       <sd>The <name type="ORG">PROTOCOL</name> DROID passes the armed camp just as two flashing
 laser swords fly out of the deadly fog, cutting down several
-<name type="ORG">BATTLE</name>
+<name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> before they can fire.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>The bridge is a cocophony of alarms. <name type="ORG">NU</name>TE and RUNE watch OWO-
 1 on the viewscreen.</sd>
       <sp>
@@ -330,17 +330,17 @@ laser swords fly out of the deadly fog, cutting down several
       <sp>
          <speaker>RUNE</speaker>
 	We will not survive this.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - HALLWAY - OUTSIDE BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - HALLWAY - OUTSIDE BRIDGE</setting>
       <sd>
-         <name type="ORG">QUI</name>-<name type="ORG">GON</name> cuts several <name type="ORG">BATTLE</name>
+         <name type="ORG">QUI</name>-<name type="ORG">GON</name> cuts several <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> in half, creating a shower
 of sparks and metal parts. OBI-<name type="ORG">WAN</name> raises his hand, sending
-several <name type="ORG">BATTLE</name>
+several <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> crashing into the wall.</sd>
       <sd>
          <name type="ORG">QUI</name>-<name type="ORG">GON</name> makes his way to the bridge door and begins to cut
 through it.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>The <name type="ORG">CREW</name> is very nervous as sparks start flying around the
 bridge door.</sd>
       <sd>
@@ -365,7 +365,7 @@ the blast door.</sd>
       <sp>
          <speaker>RUNE</speaker>
 	Where are those destroyer droids?!</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - HALLWAY - OUTSIDE BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - HALLWAY - OUTSIDE BRIDGE</setting>
       <sd>Ten ugly destroyer WHEEL <name type="ORG">DROIDS</name> roll down the hallway at
 full speed. Just before they get to the bridge area, they
 stop and transform into their battle configuration. <name type="ORG">QUI</name>-<name type="ORG">GON</name>
@@ -399,7 +399,7 @@ away at the two <name type="FAC">JEDI</name> with their laser swords.</sd>
             <name type="ORG">QUI</name>-<name type="ORG">GON</name>
          </speaker>
 	It's a standoff! Let's go!</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>
          <name type="ORG">NU</name>TE and RUNE stand on the bridge, watching the view screen
 as the WHEEL</sd>
@@ -414,10 +414,10 @@ as the WHEEL</sd>
             <name type="ORG">TEY</name> HOW</speaker>
 	Sir, they've gone up the ventilation
 	shaft.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - MAIN BAY</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - MAIN BAY</setting>
       <sd>
          <name type="ORG">QUI</name>-<name type="ORG">GON</name> and OBI-<name type="ORG">WAN</name> appear at a large vent in a giant hanger
-bay. They are careful not to be seen. Thousands of <name type="ORG">BATTLE</name>
+bay. They are careful not to be seen. Thousands of <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> are loading onto landing craft.</sd>
       <sp>
          <speaker>
@@ -442,7 +442,7 @@ bay. They are careful not to be seen. Thousands of <name type="ORG">BATTLE</name
          </speaker>
 	You were right about one thing,
 	Master. The negotiations were short.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>
          <name type="ORG">TEY</name> HOW recieves a transmission.</sd>
       <sp>
@@ -1261,7 +1261,7 @@ flicker as they cruise deeper into the gloom.</sd>
             <name type="ORG">QUI</name>-<name type="ORG">GON</name>
          </speaker>
 	There's always a bigger fish.</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>
          <name type="ORG">NU</name>TE and RUNE stand before a hologram of DARTH SIDIOUS.</sd>
       <sp>
@@ -1513,13 +1513,13 @@ and helps to pull <name type="ORG">QUI</name>-<name type="ORG">GON</name> out of
 	That was close.</sp>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID 3B3 (O.S.)</speaker>
+            <name type="GPE">BATTLE</name> DROID 3B3 (O.S.)</speaker>
 	Drop your weapons!</sp>
-      <sd>The TWO <name type="FAC">JEDI</name> turn around to see a <name type="ORG">BATTLE</name> DROID standing in
+      <sd>The TWO <name type="FAC">JEDI</name> turn around to see a <name type="GPE">BATTLE</name> DROID standing in
 front of them.</sd>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID 3B3</speaker>
+            <name type="GPE">BATTLE</name> DROID 3B3</speaker>
       </sp>
       <sp>
          <speaker>
@@ -1567,15 +1567,15 @@ gunpoint. <name type="ORG">NU</name>TE and RUNE stand in the middle of the room.
       <setting>EXT. PALACE - PLAZA - DAY</setting>
       <sd>QUEEN AMIDALA, PADME, EIRTA, YANE, <name type="ORG">RABE</name>, SACHE, Capt. <name type="ORG">Pan</name>aka,
 <name type="ORG">SIO</name> BIBBLE,</sd>
-      <sd>and FOUR GUARDS are led out of the palace by ten <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. The plaza is filled with tanks and <name type="ORG">BATTLE</name>
+      <sd>and FOUR GUARDS are led out of the palace by ten <name type="GPE">BATTLE</name>
+         <name type="ORG">DROIDS</name>. The plaza is filled with tanks and <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>,
 which they pass on their way to the detention camp.
 Unbeknownst to them, <name type="ORG">QUI</name>-<name type="ORG">GON</name>, OBI-<name type="ORG">WAN</name>, and <name type="ORG">JAR</name>
          <name type="ORG">JAR</name> sneak
 across on a walkway above the plaza and jump from a balcony
 to begin an attack to rescue the QUEEN.</sd>
-      <sd>FOUR <name type="ORG">BATTLE</name>
+      <sd>FOUR <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> are instantly cut down. MORE <name type="ORG">DROIDS</name> move
 forward and are also cut down by the <name type="FAC">JEDI</name>S' flashing
 lightsabres until there is only the DROID <name type="ORG">SERGEANT</name> left. The
@@ -1626,7 +1626,7 @@ used to this.  They move between two buildings.</sd>
 <name type="ORG">QUI</name>-<name type="ORG">GON</name> looks in over his shoulder. OBI-<name type="ORG">WAN</name>, <name type="ORG">JAR</name>
          <name type="ORG">JAR</name>, and
 the rest of the group are behind him. They see several <name type="ORG">Naboo</name>
-spacecraft guarded by about FIFTY <name type="ORG">BATTLE</name>
+spacecraft guarded by about FIFTY <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.  ALARMS can
 be heard in the distance.</sd>
       <sp>
@@ -1717,7 +1717,7 @@ The HANDMAIDENS begin to cry.</sd>
          <speaker>CAPT. <name type="ORG">PAN</name>AKA</speaker>
 	We need to free those pilots.</sp>
       <sd>Capt. <name type="ORG">Pan</name>aka points to TWENTY GUARDS, GROUND <name type="ORG">CREW</name>, and PILOTS
-held in a corner by SIX <name type="ORG">BATTLE</name>
+held in a corner by SIX <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
@@ -1754,7 +1754,7 @@ has made it onto the ship, <name type="ORG">QUI</name>-<name type="ORG">GON</nam
 sound. MORE <name type="ORG">DROIDS</name> rush into the hanger and fire as the ship
 takes off.</sd>
       <setting>EXT. THEED - HANGER ENTRY - DAY (FX)</setting>
-      <sd>The ship exits the hanger. <name type="ORG">BATTLE</name>
+      <sd>The ship exits the hanger. <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> standing in the
 hanger shoot at them.</sd>
       <setting>EXT. SPACE (FX)</setting>
@@ -1810,7 +1810,7 @@ pops up a bit.  He lets out a gasp as he lifts the head.</sd>
             <name type="ORG">JAR</name>
          </speaker>
 	Yoi! Just yoken!</sp>
-      <setting>EXT. SPACE <name type="ORG">BATTLE</name>
+      <setting>EXT. SPACE <name type="GPE">BATTLE</name>
       </setting>
       <sd>The <name type="ORG">Naboo</name> Spacecraft, surrounded by explosions, head even
 closer to the massive <name type="ORG">Federation</name> battle ships.</sd>
@@ -1857,7 +1857,7 @@ exterior of the ship.</sd>
             <name type="ORG">RIC</name> OLIE</speaker>
 	We won't make it. The shields are
 	gone.</sp>
-      <setting>EXT. <name type="ORG">NABOO</name> SPACECRAFT - FEDERATION <name type="ORG">BATTLE</name>SHIP</setting>
+      <setting>EXT. <name type="ORG">NABOO</name> SPACECRAFT - FEDERATION <name type="GPE">BATTLE</name>SHIP</setting>
       <sd>The <name type="ORG">Droid</name>s pop onto the exterior of the <name type="ORG">Naboo</name> Spacecraft;
 the ship races across the surface of the massive <name type="ORG">Federation</name>
          <name type="ORG">Battleship</name>, as its guns blast two Astro <name type="ORG">Droid</name>s to pieces.</sd>
@@ -1941,7 +1941,7 @@ battleship.</sd>
       <sd>CPATAIN <name type="ORG">PAN</name>AKA takes a deep breath in frustration.</sd>
       <setting>EXT. SPACE - <name type="ORG">NABOO</name> SPACECRAFT (FX)</setting>
       <sd>The <name type="ORG">Naboo</name> spacecraft races away.</sd>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - CONFERENCE ROOM</setting>
       <sd>
          <name type="ORG">NU</name>TE and RUNE sit around a conference table with a hologram
 of DARTH SIDIOUS.</sd>
@@ -4441,7 +4441,7 @@ the fire-balls, blackened, but unhurt. He slides to a smoking
 stop, gets out of his racer, and throws what's left of a
 shifter arm on the ground. Suddenly he realizes his pants
 are on fire, and he struggles to put them out.  ANA<name type="GPE">KI</name>N flies
-through the <name type="ORG">EXPLOSION</name> as the crowd stands, CHERRING.  PADME
+through the <name type="GPE">EXPLOSION</name> as the crowd stands, CHERRING.  PADME
 and <name type="ORG">JAR</name>
          <name type="ORG">JAR</name> jump up and down with excitment, PADME screaming
 for joy. ARTOO and <name type="GPE">KI</name>TSTER whistle hysterically. <name type="ORG">QUI</name>-<name type="ORG">GON</name> and
@@ -6933,18 +6933,18 @@ and TWENTY OTHER ASSORTED <name type="ORG">NABOO</name> TROOPS. They signal back
 	And stay there!</sp>
       <sd>DROID TROOPS mill about the tank-filled plaza. At the far
 end of the plaza, SEVERAL <name type="ORG">DROIDS</name> begin to run and fire. <name type="ORG">NABOO</name>
-SOLDIERS begin to fire back at the <name type="ORG">BATTLE</name>
+SOLDIERS begin to fire back at the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <sd>As the ruckus erupts at one end of the plaza, PADME and her
 TROOPS rush into the main hanger. Capt. <name type="ORG">Pan</name>aka and HIS
 SOLDIERS continue to engage the <name type="ORG">DROIDS</name> outside.</sd>
       <setting>INT. THEED - CENTRAL HANGER - DAY</setting>
       <sd>ALARMS ARE SOUNDING a PADME, the <name type="FAC">JEDI</name>, ANA<name type="GPE">KI</name>N, <name type="ORG">EIRTAE</name>, and
-PADME's TROOPS rush into the hanger. <name type="ORG">BATTLE</name>
+PADME's TROOPS rush into the hanger. <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> begin
 firing at them as they run for cover. ANA<name type="GPE">KI</name>N runs under a
 <name type="ORG">Naboo</name> fighter. The <name type="FAC">JEDI</name> deflect bolts aimed at PADME back
-onto the <name type="ORG">BATTLE</name>
+onto the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>, causing them to EX<name type="ORG">PLO</name>DE.</sd>
       <setting>INT. THEED - PALACE THRONE ROOM - DAY</setting>
       <sd>
@@ -6969,10 +6969,10 @@ on a large view screen.</sd>
 are protected by their energy shield.  The tanks stop firing,
 and the <name type="ORG">GUNGANS</name>
          <name type="ORG">CHEER</name>, until they see the doors to the massive
-transports open, and racks of <name type="ORG">BATTLE</name>
+transports open, and racks of <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> are pulled out
 and lined up by a squad of STAPS.</sd>
-      <sd>The <name type="ORG">BATTLE</name>
+      <sd>The <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> reconfigure into their standing position.
 The <name type="ORG">GUNGANS</name> get ready for an attack. OOM-9 gives the command
 to move forward, and THOUSANDS OF <name type="ORG">DROIDS</name> march toward the
@@ -6981,7 +6981,7 @@ to move forward, and THOUSANDS OF <name type="ORG">DROIDS</name> march toward th
 through the protective shield and start firing.  The <name type="ORG">GUNGANS</name>
 throw their power poles and fling small balls of energy with
 slingshots.  The WARRIORS dump large balls of energy into
-mortars that heat up and fire the energy goo onto the <name type="ORG">BATTLE</name>
+mortars that heat up and fire the energy goo onto the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>, causing them to short out.</sd>
       <sd>The battle rages and the <name type="ORG">GUNGANS</name> defend their shield
 generators against the <name type="ORG">ARMY</name> OF <name type="ORG">DROIDS</name>. OOM-9 watches from a
@@ -6989,7 +6989,7 @@ tank on a hill overlooking the battle.</sd>
       <setting>INT. THEED - CENTRAL HANGER - DAY</setting>
       <sd>ANA<name type="GPE">KI</name>N hides behind one of the <name type="ORG">Naboo</name> fighters, ducking as
 large bolts whiz past and EX<name type="ORG">PLO</name>DE near him. PADME and the
-TWO <name type="FAC">JEDI</name> destroy <name type="ORG">BATTLE</name>
+TWO <name type="FAC">JEDI</name> destroy <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> right and left. The QUEEN'S
 TROOPS and <name type="ORG">EIRTAE</name> also blast away at the <name type="ORG">DROIDS</name>. PADME signals
 to her pilots.</sd>
@@ -7003,7 +7003,7 @@ fighter right above where ANA<name type="GPE">KI</name>N is hiding.</sd>
          <speaker>FIGHTER PILOT</speaker>
 	Better find a new hiding place, kid.
 	I'm taking this ship.</sp>
-      <sd>The ship begins to levitate out of the hanger. <name type="ORG">BATTLE</name>
+      <sd>The ship begins to levitate out of the hanger. <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>
 fire at it as it falls in behind five other fighters. ARTOO
 whistles to ANA<name type="GPE">KI</name>N from a second fighter not far away. ANA<name type="GPE">KI</name>N
@@ -7014,7 +7014,7 @@ them, hitting one of them, which causes it to pinwheel into
 the ground and EX<name type="ORG">PLO</name>DE.</sd>
       <setting>INT. THEED - CENTRAL HANGER - DAY</setting>
       <sd>Capt. <name type="ORG">Pan</name>aka, <name type="ORG">SABE</name> and <name type="ORG">NABOO</name> TROOPS rush into the hanger and
-overwlm the few remaining <name type="ORG">BATTLE</name>
+overwlm the few remaining <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>. PADME, OBI-<name type="ORG">WAN</name>, and
 <name type="ORG">QUI</name>-<name type="ORG">GON</name> join forces with Capt. <name type="ORG">Pan</name>aka.</sd>
       <sp>
@@ -7093,7 +7093,7 @@ wiping out several DESTROYER <name type="ORG">DROIDS</name>. ARTOO whistles a ch
 They have moved into the center of the hanger. While the
 WHEEL <name type="ORG">DROIDS</name> are momentarily distracted by ANA<name type="GPE">KI</name>N, Capt.
 <name type="ORG">Pan</name>aka, PADME, and HER TROOPS exit into a palace hallway.</sd>
-      <sd>The WHEEL <name type="ORG">DROIDS</name> start firing at ANA<name type="GPE">KI</name>N. There are <name type="ORG">EXPLOSION</name>S
+      <sd>The WHEEL <name type="ORG">DROIDS</name> start firing at ANA<name type="GPE">KI</name>N. There are <name type="GPE">EXPLOSION</name>S
 all around him.</sd>
       <sp>
          <speaker>ANA<name type="GPE">KI</name>N</speaker>
@@ -7184,7 +7184,7 @@ in front of the SITH LORD and one behind. They continue their
 sword fight.</sd>
       <setting>INT. THEED - PALACE - HALLWAY - DAY</setting>
       <sd>PADME, Capt. <name type="ORG">Pan</name>aka, <name type="ORG">EIRTAE</name>, <name type="ORG">SABE</name> and THIER TROOPS are trapped
-in a hallway by <name type="ORG">BATTLE</name>
+in a hallway by <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <sp>
          <speaker>PADME</speaker>
@@ -7195,7 +7195,7 @@ in a hallway by <name type="ORG">BATTLE</name>
       <sd>Capt. <name type="ORG">Pan</name>aka blasts a hole in the window, and they make their
 way outside the building onto a ledge about six stories above
 a raging waterfall.  <name type="ORG">SABE</name>, <name type="ORG">EIRTAE</name> and about TWENTY <name type="ORG">NABOO</name>
-SOLDIERS stay in the hallway to hold off the <name type="ORG">BATTLE</name>
+SOLDIERS stay in the hallway to hold off the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <setting>EXT. THEED - PALACE - OVER WATERFALL - DAY</setting>
       <sd>PADME, Capt. <name type="ORG">Pan</name>aka, and about <name type="ORG">TEN</name> OTHER <name type="ORG">NABOO</name> SOLDIERS are
@@ -7206,7 +7206,7 @@ embedded into the ledge. PADME, Capt. <name type="ORG">Pan</name>aka, and the OT
 begin to climb up the wall.</sd>
       <setting>EXT. <name type="ORG">NABOO</name> GRASS PLAINS DAY</setting>
       <sd>The GUNGAN <name type="ORG">ARMY</name> is no match for the DESTROYER <name type="ORG">DROIDS</name>. <name type="ORG">JAR</name>
-         <name type="ORG">JAR</name> tries to run from the <name type="ORG">BATTLE</name>
+         <name type="ORG">JAR</name> tries to run from the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <sp>
          <speaker>
@@ -7390,7 +7390,7 @@ around trying to knock <name type="ORG">JAR</name>
       <sd>
          <name type="ORG">JAR</name>
          <name type="ORG">JAR</name> hangs from the tank barrel as it moves along. Finally,
-he jumps onto a <name type="ORG">KAADU</name> behind a GUNGAN WARRIOR. <name type="ORG">EXPLOSION</name>S
+he jumps onto a <name type="ORG">KAADU</name> behind a GUNGAN WARRIOR. <name type="GPE">EXPLOSION</name>S
 from the tank fire are everywhere. It is chaos.</sd>
       <setting>INT. THEED - POWER GENERATOR ELECT<name type="ORG">RIC</name> BEAM - HALLWAY</setting>
       <sd>The electric rays cycle as <name type="ORG">QUI</name>-<name type="ORG">GON</name> sits meditating. The wall
@@ -7412,9 +7412,9 @@ move, bashes his lightsaber handle into <name type="ORG">QUI</name>-<name type="
 runs him through. <name type="ORG">QUI</name>-<name type="ORG">GON</name> slumps to the floor in a heap.</sd>
       <setting>EXT. <name type="ORG">NABOO</name> GRASS PLAINS - DAY</setting>
       <sd>The <name type="ORG">GUNGANS</name> have beeb overrun. Some flee into the hills,
-chased by <name type="ORG">BATTLE</name>
+chased by <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> on STAPS. Many OTHERS are herded
-into groups by <name type="ORG">BATTLE</name>
+into groups by <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> and DESTROYER <name type="ORG">DROIDS</name>.</sd>
       <sd>
          <name type="ORG">JAR</name>
@@ -7433,7 +7433,7 @@ OFFICERS.</sd>
       <setting>INT. THED - PALACE THRONE ROOM - DAY</setting>
       <sd>PADME, Capt. <name type="ORG">Pan</name>aka, and SIX OTHER OFFICERS are brought by
 <name type="ORG">TEN</name>
-         <name type="ORG">BATTLE</name>
+         <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name> before <name type="ORG">NU</name>TE and RUNE and FOUR <name type="ORG">NEIMOIDIAN</name>
 COUNCIL MEMBERS.</sd>
       <sp>
@@ -7470,7 +7470,7 @@ yells at the <name type="ORG">TEN</name> GUARDS in the room.</sd>
 security button that opens a panel in her desk opposite Capt.
 <name type="ORG">Pan</name>aka.  PADME grabs two pistols, tosses one of the to Capt.
 <name type="ORG">Pan</name>aka and one to an OFFICER. She takes a third pistol and
-BLASTS the last of the <name type="ORG">BATTLE</name>
+BLASTS the last of the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>.</sd>
       <sd>The OFFICERS rush to the door control panel as PADME hits
 the switch to close the door. The OFFICER at the door jams
@@ -7536,7 +7536,7 @@ falls into the melting pit to his death.</sd>
       <sd>
          <name type="ORG">QUI</name>-<name type="ORG">GON</name> dies. OBI-<name type="ORG">WAN</name> cradles his Master, quietly weeping.</sd>
       <setting>INT. <name type="ORG">NABOO</name> STARFIGHTER - COCKPIT - FEDERATION HANGER</setting>
-      <sd>ANA<name type="GPE">KI</name>N peeks over the edge of the cockpit to see <name type="ORG">BATTLE</name>
+      <sd>ANA<name type="GPE">KI</name>N peeks over the edge of the cockpit to see <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>
 surrounding the ship. He ducks back down.</sd>
       <sp>
@@ -7547,20 +7547,20 @@ surrounding the ship. He ducks back down.</sd>
          <speaker>ANA<name type="GPE">KI</name>N</speaker>
 	The systems are still overheated,
 	Artoo.</sp>
-      <sd>The <name type="ORG">BATTLE</name> DROID CAPTAIN walks up to the ship and sees ARTOO.</sd>
+      <sd>The <name type="GPE">BATTLE</name> DROID CAPTAIN walks up to the ship and sees ARTOO.</sd>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID CAPTAIN</speaker>
+            <name type="GPE">BATTLE</name> DROID CAPTAIN</speaker>
 	Where's your pilot?</sp>
       <sd>ARTOO beeps a reply.</sd>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID CAPTAIN</speaker>
+            <name type="GPE">BATTLE</name> DROID CAPTAIN</speaker>
 	You're the pilot?</sp>
       <sd>ARTOO whistles.</sd>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID CAPTAIN</speaker>
+            <name type="GPE">BATTLE</name> DROID CAPTAIN</speaker>
 	Let me see your identification!</sp>
       <sd>ANA<name type="GPE">KI</name>N sees the dashboard lights go from red to green.</sd>
       <sp>
@@ -7569,7 +7569,7 @@ surrounding the ship. He ducks back down.</sd>
       <sd>He flips the switch and the engine starts.</sd>
       <sp>
          <speaker>
-            <name type="ORG">BATTLE</name> DROID CAPTAIN</speaker>
+            <name type="GPE">BATTLE</name> DROID CAPTAIN</speaker>
 	     (seeing Anakin)
 	You! Come out of there or we'll blast
 	you!</sp>
@@ -7577,7 +7577,7 @@ surrounding the ship. He ducks back down.</sd>
          <speaker>ANA<name type="GPE">KI</name>N</speaker>
 	Not if I can help it! Shields up!</sp>
       <sd>ANA<name type="GPE">KI</name>N flips a switch and the ship levitates, knocking over
-the <name type="ORG">BATTLE</name> DROID CAPTAIN. The OTHER <name type="ORG">DROIDS</name> shoot, but the
+the <name type="GPE">BATTLE</name> DROID CAPTAIN. The OTHER <name type="ORG">DROIDS</name> shoot, but the
 lasers are deflected by ANA<name type="GPE">KI</name>N's shields. ARTOO beeeps.</sd>
       <sp>
          <speaker>ANA<name type="GPE">KI</name>N</speaker>
@@ -7601,7 +7601,7 @@ the <name type="ORG">DROIDS</name>.</sd>
       <sp>
          <speaker>ANA<name type="GPE">KI</name>N</speaker>
 	Now, this is Podracing! Whoopee!</sp>
-      <setting>INT. FEDERATION <name type="ORG">BATTLE</name>SHIP - BRIDGE</setting>
+      <setting>INT. FEDERATION <name type="GPE">BATTLE</name>SHIP - BRIDGE</setting>
       <sd>
          <name type="ORG">TEY</name> HOW turns to CAPTAIN <name type="NORP">DOFINE</name>.</sd>
       <sp>
@@ -7635,7 +7635,7 @@ starts to explode from the inside out.</sd>
       <sd>Suddenly, all of the <name type="ORG">DROIDS</name> begin to shake upside down, run
 around in circles, then stop. The <name type="ORG">GUNGANS</name> carefully move out
 to inspect the FROZEN <name type="ORG">DROIDS</name>. <name type="ORG">JAR</name>
-         <name type="ORG">JAR</name> pushes one of the <name type="ORG">BATTLE</name>
+         <name type="ORG">JAR</name> pushes one of the <name type="GPE">BATTLE</name>
          <name type="ORG">DROIDS</name>, and it falls over.</sd>
       <sp>
          <speaker>
