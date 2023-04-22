@@ -11,7 +11,7 @@ from saxonche import PySaxonProcessor
 # for work with XPath
 
 
-# nlp = spacy.cli.download("en_core_web_lg")
+#nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
 
 ###############################################################################
@@ -19,8 +19,8 @@ nlp = spacy.load('en_core_web_lg')
 # 1. ebb: Define the paths to the source collection and the target collection.
 # We can use a relative path defined from this Python file's location.
 ##################################################################################
-CollPath = '../source_xml'
-TargetPath = '../output'
+CollPath = 'source_xml'
+TargetPath = 'output'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -33,15 +33,16 @@ TargetPath = '../output'
 #   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
 
 config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
-ruler = nlp.add_pipe("span_ruler", after="ner", config=config)
+ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
 
     {"label": "PERSON", "pattern": "ARTOO"},
+    {"label": "PERSON", "pattern": "DARTH VADER"},
     {"label": "LOC", "pattern": "Alderaan"},
-    {"label": "PERSON", "pattern": "Anakin"},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "(ANAKIN|Anakin)"}}]},
     {"label": "PERSON", "pattern": "Antilles"},
     {"label": "PERSON", "pattern": "Artoo"},
     {"label": "NULL", "pattern": "Astro"},
@@ -81,6 +82,13 @@ patterns = [
     {"label": "PERSON", "pattern": "Tarfful"},
     {"label": "PERSON", "pattern": "Threepio"},
     {"label": "PERSON", "pattern": "Padme"},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[A-z ]*[.',:\-][A-z ]*"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(CPATAIN|CAPTIAN)"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(SENATOR|[Ss]enator)"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "PALPATINE$"}}]},
+
+
+
 
 ]
 ruler.add_patterns(patterns)
@@ -97,7 +105,7 @@ def readTextFiles(filepath):
         node = proc.parse_xml(xml_text=xml)
         xp.set_context(xdm_item=node)
 
-        xpath = xp.evaluate('//script//sd ! normalize-space() => string-join()')
+        xpath = xp.evaluate('(//script//sd, //crawl) ! normalize-space() => string-join()')
         # ebb: Let's get the string() value of all the <p> elements that are descendants of <book>.
         # The XPath function normalize-space() gets the string value and removes extra spaces.
         # That way we avoid the prologue, preface material.
@@ -206,7 +214,7 @@ def xmlTagger(sourcePath, SortedDict):
             # print(f"{stringFile=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
-        with open(targetFile, 'w') as f:
+        with open(targetFile, 'w', encoding='utf8') as f:
             f.write(stringFile)
 
 assembleAllNames(CollPath)
