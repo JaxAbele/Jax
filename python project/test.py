@@ -21,6 +21,7 @@ nlp = spacy.load('en_core_web_lg')
 ##################################################################################
 CollPath = 'source_xml'
 TargetPath = 'output'
+XSLTPath = 'output_clean'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -86,10 +87,6 @@ patterns = [
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(CPATAIN|CAPTIAN)"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(SENATOR|[Ss]enator)"}}]},
     {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "PALPATINE$"}}]},
-
-
-
-
 ]
 ruler.add_patterns(patterns)
 
@@ -188,6 +185,7 @@ def assembleAllNames(CollPath):
             sourcePath = f"{CollPath}/{file}"
             eachFileData = xmlTagger(sourcePath, SortedDict)
             # ebb: In the lines above, we send to the xmlTagger to add the nlp info as XML elements and attributes to the source files.
+            # cleanEachFile = xsltCleaner(eachFileData)
     return eachFileData
     # Python functions don't really need to have return lines, but we can set the return to the function's most important output.
 
@@ -216,8 +214,28 @@ def xmlTagger(sourcePath, SortedDict):
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w', encoding='utf8') as f:
             f.write(stringFile)
+            # 2023-04-22 ebb: Now we send this to be processed by XSLT
+            # and remove any double-nested <name> elements. The XSLT removes the
+            # inner <name> element tags, leaves the outermost <name> elements
+            # and preserves the text nodes.
+            cleanup = xsltCleaner(targetFile)
+        return(cleanup)
+def xsltCleaner(targetFile):
+    print("xsltCleaner: ", f"{targetFile=}")
+    # for file in os.listdir(TargetPath):
+    #     if file.endswith(".xml"):
+    filepath = f"{TargetPath}/{targetFile}"
+    toCleanFilename = os.path.basename(targetFile)
+    print(f"{toCleanFilename=}")
+    with PySaxonProcessor(license=False) as proc:
+        xsltproc = proc.new_xslt30_processor()
+        # xsltCompile = xsltproc.compile_stylesheet(stylesheet_file="posTag-Cleanup.xsl.xsl", save=True, output_file=f"{XSLTPath}/{toCleanFilename}")
+        output = xsltproc.transform_to_file(source_file=filepath, stylesheet_file="nameTagCleanup-Py.xsl", output_file=f"{XSLTPath}/{toCleanFilename}")
+    return output
 
 assembleAllNames(CollPath)
+
+
 
 # ebb: The functions are all initiated here now.
 # This just delivers the collection path up to the first function in the sequence.

@@ -87,13 +87,13 @@ off his goggles.</sd>
       <sd>He walks into the main hangar deck toward the Millennium <name type="ORG">Falcon</name>, which 
 is parked among several fighters.  Mechanics, R2 units, and various 
 other droids hurry about.  Han stops at the Millennium <name type="ORG">Falcon</name> where his 
-<name type="NORP">Wookiee</name> copilot, <name type="GPE">Chewbacca</name>, is welding on a central lifter.  Chewie 
+<name type="ORG">Wookiee</name> copilot, <name type="GPE">Chewbacca</name>, is welding on a central lifter.  Chewie 
 stops his work and lifts his face shield, growling an irritated 
 greeting to his boss.</sd>
       <sp>
          <speaker>HAN</speaker>
 		Chewie!</sp>
-      <sd>The <name type="NORP">Wookiee</name> grumbles a reply.</sd>
+      <sd>The <name type="ORG">Wookiee</name> grumbles a reply.</sd>
       <sp>
          <speaker>HAN</speaker>
 		All right, don't lose your temper.
@@ -240,7 +240,7 @@ You're imagining things.</sp>
 		without giving you a goodbye kiss?</sp>
       <sp>
          <speaker>LEIA</speaker>
-		I'd just as soon kiss a <name type="NORP">Wookiee</name>.</sp>
+		I'd just as soon kiss a <name type="ORG">Wookiee</name>.</sp>
       <sp>
          <speaker>HAN</speaker>
 		I can arrange that.  You could use 
@@ -682,7 +682,7 @@ room.</sd>
             <name type="ORG">THREEPIO</name>
          </speaker>
 		Artoo expresses his relief, also.</sp>
-      <sd>Han and Chewie make their entrance.  The <name type="NORP">Wookiee</name> growls a greeting.</sd>
+      <sd>Han and Chewie make their entrance.  The <name type="ORG">Wookiee</name> growls a greeting.</sd>
       <sp>
          <speaker>HAN</speaker>
 		How are you feeling, kid?  You 
@@ -1242,7 +1242,7 @@ tightens from the cold and from fear.</sd>
 			(into comlink) 
 		Echo station Five-Seven.  We're 
 		on our way.</sp>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The fleet of snowspeeders races above the ice field at full throttle.  
 They accelerate away from the base and head toward the distant walkers.</sd>
       <setting>INT. LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT</setting>
@@ -1258,7 +1258,7 @@ They accelerate away from the base and head toward the distant walkers.</sd>
          <speaker>LUKE</speaker>
 		Steady, Dack.  Attack pattern 
 		delta.  Go now!</sp>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The cannons mounted on the walker head fire at the speeders.  Other 
 walkers loom in the background.  Two speeders race away past two of the 
 enormous walkers and bank to the right.</sd>
@@ -1273,14 +1273,14 @@ between the legs.</sd>
          <speaker>LUKE</speaker>
 			(into comlink)
 		Hobbie, you still with me?</sp>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>Two speeders race directly at the head of a walker, then split and fly 
 past it.</sd>
       <sd>Three other walkers march onward, firing all cannons.</sd>
       <setting>EXT. HOTH - ICE PLAIN - SNOWTRENCH</setting>
       <sd>Rebel troops fire on the approaching walkers, as the snow and ice 
 explode all around them.</sd>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>A speeder banks through and away from the legs of a walker.  Two other 
 speeders pass the first speeder from the opposite direction.  Other 
 Rebel craft race just above the icy plain.</sd>
@@ -1326,7 +1326,7 @@ his harpoon gun.</sd>
       <sd>Luke swings his speeder around and heads toward an oncoming walker.  
 Laser bolts and flak fill the air, creating a deadly obstacle course 
 for the tiny craft.</sd>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>Rogue Leader and another snowspeeder fly in tight formation toward the 
 walker as explosions burst all around them.</sd>
       <setting>INT.  LUKE'S SNOWSPEEDER, ROGUE LEADER - COCKPIT</setting>
@@ -1341,7 +1341,7 @@ in the distance.</sd>
       <setting>EXT. HOTH - ICE PLAIN - SNOW TRENCH AREA</setting>
       <sd>Rebel troops fire the dishlike ray gun while explosions erupt around 
 them.</sd>
-      <setting>EXT. HOTH - ICE PLAIN - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - ICE PLAIN - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>Two walkers lumber toward the Rebel base as a speeder between them 
 explodes in a ball of flames.</sd>
       <setting>EXT. HOTH - ICE PLAIN - SNOW TRENCH</setting>
@@ -1382,7 +1382,7 @@ generators in the distance.</sd>
          <speaker>LUKE</speaker>
 			(into comlink) 
 		Steady, Rogue Two</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>
          <name type="ORG">Wedge</name>'s speeder races through the legs of one of the monstrous walkers.</sd>
       <setting>INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT</setting>
@@ -1394,7 +1394,7 @@ generators in the distance.</sd>
          <name type="ORG">Wedge</name>'s gunner reaches for a firing switch to activate the harpoon.  
 The harpoon flashes out, and speeds toward the receding legs of the 
 walker.</sd>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The harpoon hurtles toward the walker, In an instant it is embedded in 
 one of the walker's legs.</sd>
       <setting>INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT</setting>
@@ -1402,7 +1402,7 @@ one of the walker's legs.</sd>
          <speaker>WEDGE </speaker>
 			(to gunner) 
 		Good shot, Janson.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The speeder <name type="ORG">Rogue Three</name> races around one of the giant walker's feet, 
 trailing the cable behind it.  Continuing around the back foot, Rogue 
 Three then circles the walker around the tail end.</sd>
@@ -1415,7 +1415,7 @@ Three then circles the walker around the tail end.</sd>
       <sp>
          <speaker>JANSON </speaker>
 		Coming around.  Once more.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The speeder sweeps left to right in front of the giant legs, towing the 
 cable behind it.</sd>
       <setting>INT. WEDGE'S SNOWSPEEDER, ROGUE THREE - COCKPIT</setting>
@@ -1437,7 +1437,7 @@ drops away.</sd>
       <sp>
          <speaker>JANSON</speaker>
 		Cable detached.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The speeder zooms away into the distance.  The tangled legs of the 
 enormous war machine attempt a step, but as they do the giant <name type="ORG">Imperial</name> 
 walker begins to topple.  It teeters for a moment, and then crashes 
@@ -1503,7 +1503,7 @@ into Luke's X-wing fighter.</sd>
 		Master Luke now, understand?  And
 		... do take good care of yourself.  
 		Oh, dear, oh, dear.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The fierce battle on the vast snow plains of <name type="GPE">Hoth</name> rages on.  The 
 <name type="ORG">Imperial</name> walkers continue their slow, steady assault on the Rebel base, 
 firing lasers as they lumber ever onward.  In the snow trench, Rebel 
@@ -1517,7 +1517,7 @@ explodes.  Another blast destroys a ray gun.</sd>
 		All troops will debark for ground 
 		assault.  Prepare to target the 
 		main generator.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>Luke's speeder and Rogue Two fly in formation, banking from right to 
 left and flying above the erupting battlefield.  Flak bursts all around 
 them.</sd>
@@ -1538,7 +1538,7 @@ flak bursts nearby.</sd>
          <speaker>LUKE</speaker>
 			(into comlink) 
 		We'll set harpoon.  I'll cover for you.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The two speeders race across the horizon toward the giant walkers.</sd>
       <setting>INT. ZEV'S SNOWSPEEDER, ROGUE TWO - COCKPIT</setting>
       <sp>
@@ -1642,7 +1642,7 @@ signal can be heard echoing off the corridor walls.</sd>
          </speaker>
 			(to Han and Leia) 
 		Oh!  Wait for me!</sp>
-      <setting>EXT. <name type="ORG">BATTLE</name>FIELD - SNOW TRENCH</setting>
+      <setting>EXT. <name type="GPE">BATTLE</name>FIELD - SNOW TRENCH</setting>
       <sd>Rebel troops retreat under the awesome <name type="ORG">Imperial</name> onslaught.</sd>
       <sp>
          <speaker>OFFICER</speaker>
@@ -1651,13 +1651,13 @@ signal can be heard echoing off the corridor walls.</sd>
          <speaker>SECOND OFFICER</speaker>
 		Fall back!</sp>
       <sd>Troops flee from the battle, the ground exploding around them.</sd>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>Three of the giant walkers, firing lasers, advance toward the Rebel 
 headquarters.</sd>
       <setting>EXT. HOTH - SNOW TRENCH</setting>
       <sd>Continuing their retreat, the <name type="ORG">Rebels</name> see the walkers looming ever 
 nearer.</sd>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD - ICE PLAIN</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD - ICE PLAIN</setting>
       <sd>On the battlefield, Luke watches as a walker foot rises and moves over 
 him.  He looks up at the underbelly of the huge walker, passing 
 overhead.</sd>
@@ -1679,7 +1679,7 @@ passes by - and just misses him.</sd>
 within - and then the walker's mechanical insides  are spewed out every 
 conceivable opening.  The machine sits dead in its tracks, smoking like 
 a locomotive on stilts.</sd>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>
          <name type="ORG">Veers</name>'s walker continues to advance toward the Rebel base.  The 
 smoldering walker that Luke exploded stands smoking just to the right 
@@ -1699,7 +1699,7 @@ generator.</sd>
       <sp>
          <speaker>VEERS</speaker>
 		Target.  Maximum fire power.</sp>
-      <setting>EXT. HOTH - <name type="ORG">BATTLE</name>FIELD</setting>
+      <setting>EXT. HOTH - <name type="GPE">BATTLE</name>FIELD</setting>
       <sd>The Rebel troops continue their desperate retreat, pushed back by the 
 relentless <name type="ORG">Imperial</name> assault.</sd>
       <setting>INT. HOTH - REBEL BASE - ICE CORRIDORS</setting>
@@ -1748,11 +1748,11 @@ through.</sd>
 		Come on.</sp>
       <setting>INT. HOTH - REBEL BASE - MAIN HANGAR</setting>
       <sd>Chewie paces under the shelter of the Millennium <name type="ORG">Falcon</name>'s landing gear.  
-The giant <name type="NORP">Wookiee</name> pats the underbelly of his beloved ship and barks a 
+The giant <name type="ORG">Wookiee</name> pats the underbelly of his beloved ship and barks a 
 few reassuring words.  As he searches worriedly for his captain, 
 something at last catches his eye.</sd>
       <sd>Chewie lets out a relieved shriek at seeing Han and Leia running toward 
-the ship.  The <name type="NORP">Wookiee</name> runs out into the falling ice, lets out a howl, 
+the ship.  The <name type="ORG">Wookiee</name> runs out into the falling ice, lets out a howl, 
 then runs up the ship's ramp.  Han and Leia run up the ramp after him, 
 closely followed by Threepio.</sd>
       <sp>
@@ -1783,7 +1783,7 @@ efforts.</sd>
          <speaker>HAN</speaker>
 			(to Chewie)
 		How's this?</sp>
-      <sd>The <name type="NORP">Wookiee</name> barks a negative reply.</sd>
+      <sd>The <name type="ORG">Wookiee</name> barks a negative reply.</sd>
       <sp>
          <speaker>LEIA</speaker>
 		Would it helped if I got out and 
@@ -2209,7 +2209,7 @@ hysterics.</sd>
          </speaker>
 		Oh, this is suicide!</sp>
       <sd>Han notices something on his main scope and nudges his faithful 
-<name type="NORP">Wookiee</name>, pointing.</sd>
+<name type="ORG">Wookiee</name>, pointing.</sd>
       <sp>
          <speaker>HAN</speaker>
 		There.  That looks pretty good.</sp>
@@ -2870,7 +2870,7 @@ frightening than Vader's.</sd>
 		What is thy bidding, my master?</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 		There is a great disturbance in 
 		the <name type="ORG">Force</name>.</sp>
@@ -2879,7 +2879,7 @@ frightening than Vader's.</sd>
 		I have felt it.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 		We have a new enemy - Luke 
 		Skywalker.</sp>
@@ -2888,7 +2888,7 @@ frightening than Vader's.</sd>
 		Yes, my master.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 		He could destroy us.</sp>
       <sp>
@@ -2897,7 +2897,7 @@ frightening than Vader's.</sd>
 		longer help him.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 		The <name type="ORG">Force</name> is strong with him.  The 
 		son of Skywalker must not become a 
@@ -2908,7 +2908,7 @@ frightening than Vader's.</sd>
 		become a powerful ally.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 		Yes.  Yes.  He would be a great 
 		asset.  Can it be done?</sp>
@@ -3206,7 +3206,7 @@ The ship continues to shake and heave.</sd>
          <speaker>HAN</speaker>
 		All right, Chewie, let's get 
 		out of here!</sp>
-      <sd>The <name type="NORP">Wookiee</name> heads for the cockpit as Han, followed by Threepio, rushes 
+      <sd>The <name type="ORG">Wookiee</name> heads for the cockpit as Han, followed by Threepio, rushes 
 to the hold area and checks the scopes on the control panel.  Leia 
 hurries after.</sd>
       <sp>
@@ -3903,7 +3903,7 @@ the soft pink planet of <name type="GPE">Bespin</name>.</sd>
          <name type="ORG">FALCON</name>
       </setting>
       <sd>It is down on the gaseous planet.  Huge billowing clouds form a canyon 
-as the ship banks around them, heading toward the system's <name type="GPE">Cloud City</name>.</sd>
+as the ship banks around them, heading toward the system's <name type="FAC">Cloud City</name>.</sd>
       <sd>Suddenly, two twin-pod cloud cars appear and move toward the <name type="ORG">Falcon</name>.  
 The cloud cars draw up alongside the starship.</sd>
       <setting>INT. <name type="ORG">MILLENNIUM</name>
@@ -3969,7 +3969,7 @@ gleaming white metropolis.</sd>
          <name type="ORG">FALCON</name>
       </setting>
       <sd>With the cloud cars still guarding it, the <name type="ORG">Falcon</name> lands on one of the 
-<name type="GPE">Cloud City</name>'s platforms.</sd>
+<name type="FAC">Cloud City</name>'s platforms.</sd>
       <setting>EXT. LANDING PLATFORM - DOOR OF <name type="ORG">MILLENNIUM</name>
          <name type="ORG">FALCON</name>
       </setting>
@@ -3997,7 +3997,7 @@ armed, surveys the scene warily.</sd>
 		going to be fine.  Trust me.</sp>
       <setting>INT. CLOUD CITY - CORRIDOR - DAY</setting>
       <sd>Lando Calrissian, a suave, dashing black man in his thirties, leads a 
-group of aides and some <name type="GPE">Cloud City</name> guard rapidly toward the landing 
+group of aides and some <name type="FAC">Cloud City</name> guard rapidly toward the landing 
 platform.</sd>
       <sd>The group, like the other citizens of the city, is a motley collection 
 of aliens, droids, and humans of all descriptions.  Lando has a grim 
@@ -4336,7 +4336,7 @@ the engines and the wind engulf them.</sd>
       <sd>Luke's tiny X-wing rockets away from the green planet of <name type="FAC">Dagobah</name> and 
 off into space.</sd>
       <setting>INT. CLOUD CITY - LIVING QUARTERS - DAY</setting>
-      <sd>Within the quarters assigned her on <name type="GPE">Cloud City</name>, Leia paces in 
+      <sd>Within the quarters assigned her on <name type="FAC">Cloud City</name>, Leia paces in 
 agitation.  She has changed from her cold-weather pants and jacket to a 
 lovely dress.  Her hair is down, tied back with ribbons.  She moves 
 from a large, open window and turns to see Han entering through the 
@@ -4377,7 +4377,7 @@ doorway.</sd>
 pieces onto a conveyer belt which moves briskly toward a pit of molten 
 metal.  Pieces of Threepio's golden body move down the belt.  Chewie 
 enters the room and spots an <name type="ORG">Ugnaught</name> picking up and inspecting 
-Threepio's head.  The <name type="NORP">Wookiee</name> barks a command, startling the <name type="ORG">Ugnaught</name>, 
+Threepio's head.  The <name type="ORG">Wookiee</name> barks a command, startling the <name type="ORG">Ugnaught</name>, 
 then reaches to grab the head.  But the <name type="ORG">Ugnaught</name> tosses it away from 
 him to another <name type="ORG">Ugnaught</name>.  This game of keep-away goes on until 
 Threepio's head falls from their grip and bounces with a clang onto the 
@@ -4396,7 +4396,7 @@ Threepio, arms and legs hanging over the edge.</sd>
          <speaker>LEIA</speaker>
 		Oh, what a mess.  Chewie, do you 
 		think you can repair him?</sp>
-      <sd>The giant <name type="NORP">Wookiee</name> studies the array of robot parts.  He looks at the 
+      <sd>The giant <name type="ORG">Wookiee</name> studies the array of robot parts.  He looks at the 
 princess and shrugs sadly.</sd>
       <sp>
          <speaker>HAN</speaker>
@@ -4503,7 +4503,7 @@ right before you did.  I'm sorry.</sp>
          <speaker>HAN</speaker>
 		I'm sorry, too.</sp>
       <setting>EXT.  LUKE'S X-WING - BESPIN SYSTEM</setting>
-      <sd>Luke's X-wing races through thick clouds toward <name type="GPE">Cloud City</name>.</sd>
+      <sd>Luke's X-wing races through thick clouds toward <name type="FAC">Cloud City</name>.</sd>
       <setting>INT.  LUKE'S X-WING - COCKPIT</setting>
       <sd>Luke is grim-faced as he pilots his course toward <name type="GPE">Bespin</name>'s shining 
 city.  Artoo's beeps and whistles are transmitted onto the scope.</sd>
@@ -4518,7 +4518,7 @@ city.  Artoo's beeps and whistles are transmitted onto the scope.</sd>
 		Just hang on.  We're almost there.</sp>
       <setting>INT. CLOUD CITY - LARGE CELL</setting>
       <sd>
-         <name type="GPE">Chewbacca</name> is in a <name type="GPE">Cloud City</name> prison cell.  The stark room is flooded 
+         <name type="GPE">Chewbacca</name> is in a <name type="FAC">Cloud City</name> prison cell.  The stark room is flooded 
 with hot light.  To add to Chewie's misery, a high-pitched whistle 
 screeches loudly.  Chewie is going mad.  He hits the wall with giant 
 fists as he paces back and forth across the cell floor.  The upper 
@@ -4578,7 +4578,7 @@ chamber, where Lando and Boba Fett await him.</sd>
       <sp>
          <speaker>LANDO</speaker>
 		Lord Vader, what about Leia and 
-		the <name type="NORP">Wookiee</name>?</sp>
+		the <name type="ORG">Wookiee</name>?</sp>
       <sp>
          <speaker>VADER</speaker>
 		They must never again leave this 
@@ -4608,7 +4608,7 @@ swiftly down another corridor, muttering to himself.</sd>
       <setting>INT. CLOUD CITY - LARGE CELL</setting>
       <sd>Chewie now has a little more of Threepio back together.  One arm is 
 connected, but the legs are yet to be attached.  There is one small 
-problem, however.  It seems the <name type="NORP">Wookiee</name> has managed to put the droid's 
+problem, however.  It seems the <name type="ORG">Wookiee</name> has managed to put the droid's 
 head on backwards.</sd>
       <sp>
          <speaker>
@@ -4622,10 +4622,10 @@ head on backwards.</sd>
 		Only an overgrown mophead like you 
 		would be stupid enough...</sp>
       <sd>Threepio is cut off in mid-sentence as Chewie angrily deactivates a 
-circuit and the droid shuts down.  The <name type="NORP">Wookiee</name> smells something and 
+circuit and the droid shuts down.  The <name type="ORG">Wookiee</name> smells something and 
 sits up.  The door to the chamber slides open and a ragged Han Solo is 
 shoved into the room by two stormtroopers.  Barking his concern, the 
-huge <name type="NORP">Wookiee</name> gives Han a big hug.  Han is very pale, with dark circles 
+huge <name type="ORG">Wookiee</name> gives Han a big hug.  Han is very pale, with dark circles 
 under his eyes.</sd>
       <sp>
          <speaker>HAN</speaker>
@@ -4698,7 +4698,7 @@ his head.</sd>
       <sd>Han hauls off and punches Lando.  The two friends are instantly engaged 
 in a frantic close-quarters fight.  The guards hit Han with their rifle 
 butts and he flies across the room.  Chewie growls and starts for the 
-guards.  They point their laser weapons at the giant <name type="NORP">Wookiee</name>, but Lando 
+guards.  They point their laser weapons at the giant <name type="ORG">Wookiee</name>, but Lando 
 stops them.</sd>
       <sp>
          <speaker>LANDO</speaker>
@@ -4763,7 +4763,7 @@ Threepio.  Threepio's head faces the opposite direction from Chewie's
 and the droid is constantly twisting around in a vain effort to see 
 what is happening.  His one attached arm is animate and expressive, 
 intermittently pointing, gesturing, and covering his eyes.  The 
-remaining pieces of his body are randomly bundled to the <name type="NORP">Wookiee</name>'s back 
+remaining pieces of his body are randomly bundled to the <name type="ORG">Wookiee</name>'s back 
 so that his legs and other arm stick out at odd angles from the pack.</sd>
       <sp>
          <speaker>
@@ -4793,7 +4793,7 @@ so that his legs and other arm stick out at odd angles from the pack.</sd>
 		if he dies.  Put him in!</sp>
       <sd>Realizing what is about to happen, Chewie lets out a wild howl and 
 attacks the stormtroopers surrounding Han.  Within seconds, other 
-<name type="ORG">Imperial</name> reinforcements join the scuffle, clubbing the giant <name type="NORP">Wookiee</name> 
+<name type="ORG">Imperial</name> reinforcements join the scuffle, clubbing the giant <name type="ORG">Wookiee</name> 
 with their laser weapons.</sd>
       <sd>From the instant of Chewie's first move, Threepio begins to scream in 
 panic while he tries to protect himself with his one arm.</sd>
@@ -4820,14 +4820,14 @@ go and the pirate breaks up the fight.</sd>
          <speaker>HAN</speaker>
 		Chewie!  Chewie, this won't help 
 		me.  Hey!</sp>
-      <sd>Han gives the <name type="NORP">Wookiee</name> a stern look.</sd>
+      <sd>Han gives the <name type="ORG">Wookiee</name> a stern look.</sd>
       <sp>
          <speaker>HAN</speaker>
 		Save your strength.  There'll be 
 		another time.  The princess - you 
 		have to take care of her.  You 
 		hear me?</sp>
-      <sd>Han winks at the <name type="NORP">Wookiee</name>, who wails a doleful farewell.</sd>
+      <sd>Han winks at the <name type="ORG">Wookiee</name>, who wails a doleful farewell.</sd>
       <sd>In a flash the guards have slipped binders on <name type="GPE">Chewbacca</name>, who is too 
 distraught to protest.  Han turns to Princess Leia.  They look 
 sorrowfully at one another, then Han moves toward her and gives her a 
@@ -4886,7 +4886,7 @@ shakes his head in relief.</sd>
          <speaker>VADER</speaker>
 		Good.  See to it that he finds 
 		his way here.  Calrissian, take 
-		the princess and the <name type="NORP">Wookiee</name> to 
+		the princess and the <name type="ORG">Wookiee</name> to 
 		my ship.</sp>
       <sp>
          <speaker>LANDO</speaker>
@@ -5034,7 +5034,7 @@ undo Chewie's binding.</sd>
          </speaker>
 			(to Lando)
 		I'm terribly sorry about all this. 
-		After all, he's only a <name type="NORP">Wookiee</name>.</sp>
+		After all, he's only a <name type="ORG">Wookiee</name>.</sp>
       <setting>EXT. CLOUD CITY - EAST LANDING PLATFORM - <name type="ORG">BOBA</name> FETT'S SHIP</setting>
       <sd>The two guards slide Han's encased body into an opening in the side of 
 the bounty hunter's ship.  Boba Fett climb aboard on a ladder next to 
@@ -5046,7 +5046,7 @@ the cargo hold.</sd>
 		hold.</sp>
       <sd>And with that, the door slams shut.</sd>
       <setting>INT. CLOUD CITY - CORRIDOR</setting>
-      <sd>Lando, Leia, and Chewie run down a <name type="GPE">Cloud City</name> corridor when suddenly 
+      <sd>Lando, Leia, and Chewie run down a <name type="FAC">Cloud City</name> corridor when suddenly 
 they spot Artoo who rushes toward them, beeping wildly.</sd>
       <sp>
          <speaker>
@@ -5091,7 +5091,7 @@ of stormtroopers running toward them.  Artoo peeks out from the
 elevator.</sd>
       <sd>Leia and <name type="GPE">Chewbacca</name> start firing at the troopers as Lando makes a break 
 for the elevator.  Laser bolts continue to explode around the princess 
-and the <name type="NORP">Wookiee</name>, but they refuse to budge.  Lando sticks his head out 
+and the <name type="ORG">Wookiee</name>, but they refuse to budge.  Lando sticks his head out 
 of the elevator and motions for the pair to run, but they barely 
 notice.  They seem possessed, transported, as all the frustration of 
 captivity and anger of loss pour through their death-dealing weapons.</sd>
@@ -5233,7 +5233,7 @@ along with them, Artoo sends some angry beeps Threepio's way.</sd>
 		I'm not supposed to know a power 
 		socket from a computer terminal.</sp>
       <setting>INT. CLOUD CITY - CORRIDOR</setting>
-      <sd>In a panic, <name type="GPE">Cloud City</name> residents are trying to get out of the city.  
+      <sd>In a panic, <name type="FAC">Cloud City</name> residents are trying to get out of the city.  
 Some carry boxes, others packages.  They run, then change direction.  
 Some are shooting at stormtroopers, others simply try to hide.</sd>
       <sd>Other stormtroopers pursue Lando, Leia, and Chewie who are firing back 
@@ -5384,7 +5384,7 @@ hit a circular grill and knock it open.  Luke claws at the surface of
 the pipe, trying to keep from sliding out into space.</sd>
       <setting>EXT. BOTTOM OF CLOUD CITY - WEATHER VANE - DUSK</setting>
       <sd>Unable to hang onto the pipe, Luke tumbles out, emerging at the 
-undermost part of <name type="GPE">Cloud City</name>.  Reaching out desperately, he manages to 
+undermost part of <name type="FAC">Cloud City</name>.  Reaching out desperately, he manages to 
 grab onto on electronic weather vane.</sd>
       <sp>
          <speaker>LUKE</speaker>
@@ -5404,7 +5404,7 @@ weather vane and a piece breaks off, falling into the clouds far below.</sd>
       <setting>INT. <name type="ORG">MILLENNIUM</name>
          <name type="ORG">FALCON</name> - COCKPIT</setting>
       <sd>Leia seems to be lost in a fog, her expression troubled.  Chewie is 
-busy operating the ship.  Lando stands next to the <name type="NORP">Wookiee</name>, watching a 
+busy operating the ship.  Lando stands next to the <name type="ORG">Wookiee</name>, watching a 
 readout on the control panel.</sd>
       <sp>
          <speaker>LEIA</speaker>
@@ -5432,7 +5432,7 @@ readout on the control panel.</sd>
 		All right, all right, all right.</sp>
       <setting>EXT. CLOUD CITY - <name type="ORG">MILLENNIUM</name>
          <name type="ORG">FALCON</name> - DUSK</setting>
-      <sd>The <name type="ORG">Falcon</name> makes a graceful banking turn back toward <name type="GPE">Cloud City</name>.</sd>
+      <sd>The <name type="ORG">Falcon</name> makes a graceful banking turn back toward <name type="FAC">Cloud City</name>.</sd>
       <setting>EXT. CLOUD CITY - LANDING PLATFORM</setting>
       <sd>Vader enters the landing platform and watches as the speck that is the 
 <name type="ORG">Falcon</name> disappears.  The wind blows at his cape.</sd>
@@ -5551,7 +5551,7 @@ panel next to her flashes on.</sd>
       <sp>
          <speaker>LANDO</speaker>
 		Punch it!</sp>
-      <sd>The <name type="NORP">Wookiee</name> shrugs and pulls back on the light-speed throttle.  The 
+      <sd>The <name type="ORG">Wookiee</name> shrugs and pulls back on the light-speed throttle.  The 
 sound of the ion engine changes...it is winding up.  Faces are tense, 
 expectant.  But nothing happens, and the engine goes off.  Chewie lets 
 out a frustrated howl.  The flak still violently rocks the ship.</sd>

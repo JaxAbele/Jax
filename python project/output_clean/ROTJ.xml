@@ -426,14 +426,14 @@ Solo, but is immediately distracted by a gunshot offscreen.�An
 unnatural quiet sweeps the boisterous gathering. On the far side of the 
 room, the crush of debauchers moves aside to allow the approach of two 
 guards followed by BOUSHH, an oddly cloaked bounty hunter, leading his 
-captive, Han Solo's copilot, <name type="ORG">CHEWBACCA</name> THE WOO<name type="GPE">KI</name>EE.</sd>
+captive, Han Solo's copilot, <name type="GPE">CHEWBACCA</name> THE WOO<name type="GPE">KI</name>EE.</sd>
       <sd>Bib takes his place next to his disgusting master, and whispers into 
 his ear, pointing at <name type="GPE">Chewbacca</name> and the bounty hunter. Jabba listens 
 intently, then the bounty hunter bows before the gangster and speaks a 
 greeting in a strange, electronically processed tongue (Ubese).</sd>
       <sp>
          <speaker>BOUSHH	 (in Ubese subtitled)</speaker>
-I have come for the bounty on this <name type="NORP">Wookiee</name>.</sp>
+I have come for the bounty on this <name type="ORG">Wookiee</name>.</sp>
       <sp>
          <speaker>
             <name type="ORG">THREEPIO</name>
@@ -518,7 +518,7 @@ his weapon lovingly. Boba Fett shifts with equally ominous arrogance.</sd>
       <setting>12   INT DUNGEON CORRIDOR AND CELL</setting>
       <sd>
          <name type="NORP">Gamorrean</name> guards lead Chewie down the same hallway we saw before. When 
-a tentacle reaches out at the <name type="NORP">Wookiee</name>, Chewie's ferocious <name type="ORG">ROAR</name> echoes 
+a tentacle reaches out at the <name type="ORG">Wookiee</name>, Chewie's ferocious <name type="ORG">ROAR</name> echoes 
 against the walls and the tentacle snaps back into its cell in terror. 
 It takes all the guards to hurl Chewie roughly into a cell, slamming 
 the door behind him. Chewie lets out a pathetic howl and bangs on the 
@@ -650,7 +650,7 @@ revealing Chewie.</sd>
       <sp>
          <speaker>HAN</speaker>
 Ah! Chew--Chewie!</sp>
-      <sd>The giant <name type="NORP">Wookiee</name> barks with glee.</sd>
+      <sd>The giant <name type="ORG">Wookiee</name> barks with glee.</sd>
       <sp>
          <speaker>HAN</speaker>
 Wait. I can't see, pal. What's goin' on?</sp>
@@ -733,7 +733,7 @@ You weak-minded fool! He's using an old Jedi mind trick.</sp>
       <sd>Luke stares hard at Jabba.</sd>
       <sp>
          <speaker>LUKE</speaker>
-You will bring Captain Solo and the <name type="NORP">Wookiee</name> to me.</sp>
+You will bring Captain Solo and the <name type="ORG">Wookiee</name> to me.</sp>
       <sp>
          <speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
 Your mind powers will not work on me, boy.</sp>
@@ -816,7 +816,7 @@ red with anger. Leia cannot suppress her joy. Jabba utters harsh
 commands to his guards and they hurry off.</sd>
       <sp>
          <speaker>JABBA	 (in <name type="ORG">Hut</name>tese subtitled)</speaker>
-Bring me Solo and the <name type="NORP">Wookiee</name>. They will all suffer for this outrage.</sp>
+Bring me Solo and the <name type="ORG">Wookiee</name>. They will all suffer for this outrage.</sp>
       <setting>21   INT <name type="ORG">RANCOR</name> PIT</setting>
       <sd>The <name type="ORG">Rancor</name> KEEPERS have come into the cage and are examining their dead 
 beast. One of them breaks down and weeps. The other glares menacingly 
@@ -1042,7 +1042,7 @@ rail.</sd>
       <sp>
          <speaker>HAN</speaker>
 Chewie, you okay? Where is he?</sp>
-      <sd>The <name type="NORP">Wookiee</name> is wounded and he howls in pain.</sd>
+      <sd>The <name type="ORG">Wookiee</name> is wounded and he howls in pain.</sd>
       <sp>
          <speaker>HAN</speaker>
 I'm okay, pal.</sp>
@@ -1110,7 +1110,7 @@ I'm trying!</sp>
 and almost everything else on board slides overboard. The rope breaks, 
 and Lando falls to the side of the Sarlacc pit. Luckily, Han's foot 
 catches on the skiff railing and he dangles above Lando and the pit. 
-The wounded <name type="NORP">Wookiee</name> holds onto the skiff for dear life as another hit 
+The wounded <name type="ORG">Wookiee</name> holds onto the skiff for dear life as another hit 
 from the deck gun rocks the skiff violently.</sd>
       <sp>
          <speaker>HAN</speaker>
@@ -1349,7 +1349,7 @@ the shuttle is coming to rest.</sd>
       <sd>The shuttle's ramp lowers and <name type="FAC">the Emperor</name>'s <name type="ORG">Royal Guards</name> come out and 
 create a lethal perimeter. The assembled troops move to rigid attention 
 with a momentous SNAP.</sd>
-      <sd>Then, in the huge SILENCE which follows, the <name type="GPE">EMPEROR</name> appears. He is a 
+      <sd>Then, in the huge SILENCE which follows, the <name type="ORG">EMPEROR</name> appears. He is a 
 rather small, shriveled old man. His bent frame slowly makes its way 
 down the ramp with the aid of a gnarled cane. He wears a hooded cloak 
 similar to the one Ben wears, except that it is black. The Emperor's 
@@ -1358,7 +1358,7 @@ eyes. Commander <name type="ORG">Jerjerrod</name> and Darth Vader kneel to him. 
 Ruler of the galaxy beckons to the Dark Lord.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (to Vader)</speaker>
+            <name type="ORG">EMPEROR</name>	 (to Vader)</speaker>
 Rise, my friend.</sp>
       <sd>Vader rises and falls in next to <name type="FAC">the Emperor</name> as he slowly makes his way 
 along the rows of troops. <name type="ORG">Jerjerrod</name> and the other commanders stay 
@@ -1370,7 +1370,7 @@ procession.</sd>
 The <name type="ORG">Death Star</name> will be completed on schedule.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 You have done well, Lord Vader. And now I sense you wish to continue 
 your search for young Skywalker.</sp>
@@ -1379,7 +1379,7 @@ your search for young Skywalker.</sp>
 Yes, my Master.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Patience, my friend. In time he will seek you out. And when he does, 
 you must bring him
@@ -1391,7 +1391,7 @@ dark side of the
 As you wish.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Everything is proceeding as I have foreseen.</sp>
       <sd>He laughs to himself as they pass along the vast line of <name type="ORG">Imperial</name> 
@@ -1862,7 +1862,7 @@ Yeah, she's comin' up.</sp>
       <sd>Chewie growls a complaint.</sd>
       <sp>
          <speaker>HAN</speaker>
-No. I don't think the <name type="ORG">Empire</name> had <name type="NORP">Wookiee</name>s in mind when they designed 
+No. I don't think the <name type="ORG">Empire</name> had <name type="ORG">Wookiee</name>s in mind when they designed 
 her, Chewie.</sp>
       <sd>Leia comes in from the hold and takes her seat near Luke.</sd>
       <sd>Chewie barks and hits some switches. Han's glance has stuck on 
@@ -1899,7 +1899,7 @@ All right, hang on.</sp>
       <sd>The stolen <name type="ORG">Imperial</name> shuttle leaves the main docking bay of the 
 Headquarters Frigate, lowers its wings into flight position, and zooms 
 off into space.</sd>
-      <setting>57   INT <name type="GPE">EMPEROR</name>'S THRONE ROOM</setting>
+      <setting>57   INT <name type="ORG">EMPEROR</name>'S THRONE ROOM</setting>
       <sd>The converted control room is dimly lit, except for a pool of light at 
 the far end. There <name type="FAC">the Emperor</name> sits in an elaborate control chair 
 before a large window which looks out across the half-completed Death 
@@ -1912,7 +1912,7 @@ several tense moments, <name type="FAC">the Emperor</name>'s chair rotates aroun
 What is thy bidding, my Master?</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Send the fleet to the far side of Endor. There it will stay until 
 called for.</sp>
@@ -1921,7 +1921,7 @@ called for.</sp>
 What of the reports of the Rebel fleet massing near Sullust?</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 It is of no concern. Soon the Rebellion will be crushed and young 
 Skywalker will be one of us! Your work here is finished, my friend. Go 
@@ -2328,7 +2328,7 @@ dense foliage.</sd>
 Come on, let's get outta here.</sp>
       <sd>As they move into the foliage, Wicket takes the lead. He shrieks and 
 tugs at Leia to follow him.</sd>
-      <setting>68   INT DEATH STAR - CORRIDOR TO <name type="GPE">EMPEROR</name>'S TOWER</setting>
+      <setting>68   INT DEATH STAR - CORRIDOR TO <name type="ORG">EMPEROR</name>'S TOWER</setting>
       <sd>Darth Vader walks down the corridor to <name type="FAC">the Emperor</name>'s Tower and private 
 elevator. The Emperor's private guard steps in Vader's path.</sd>
       <sp>
@@ -2343,7 +2343,7 @@ The Emperor will see me, now!</sp>
          <speaker>GUARD</speaker>
 (repeating Vader's command)
 The Emperor will see you, now.</sp>
-      <setting>69   INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>69   INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>Two red <name type="ORG">Imperial</name> Guards stand watch at the elevator as the door opens 
 to reveal Vader. Vader enters the eerie, foreboding throne room. It 
 appears to be empty. His footsteps echo as he approaches the throne. He 
@@ -2351,7 +2351,7 @@ waits, absolutely still. The Emperor sits with his back to the Dark
 Lord.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 I told you to remain on the command ship.</sp>
       <sp>
@@ -2359,21 +2359,21 @@ I told you to remain on the command ship.</sp>
 A small Rebel force has penetrated the shield and landed on Endor.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (no surprise)</speaker>
+            <name type="ORG">EMPEROR</name>	 (no surprise)</speaker>
 Yes, I know.</sp>
       <sp>
          <speaker>VADER	 (after a beat)</speaker>
 My son is with them.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (very cool)</speaker>
+            <name type="ORG">EMPEROR</name>	 (very cool)</speaker>
 Are you sure?</sp>
       <sp>
          <speaker>VADER</speaker>
 I have felt him, my Master.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Strange, that I have not. I wonder if your feelings on this matter are 
 clear, Lord
@@ -2384,7 +2384,7 @@ Vader.</sp>
 They are clear, my Master.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Then you must go to the <name type="LOC">Sanctuary Moon</name> and wait for them.</sp>
       <sp>
@@ -2392,7 +2392,7 @@ Then you must go to the <name type="LOC">Sanctuary Moon</name> and wait for them
 He will come to me?</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 I have foreseen it. His compassion for you will be his undoing. He will 
 come to you and
@@ -2434,7 +2434,7 @@ through the foliage.</sd>
                               HAN
 What, Chewie? What? Chewie!
 
-<sd>The others rush to keep up with the giant <name type="NORP">Wookiee</name>. As he scoots along, 
+<sd>The others rush to keep up with the giant <name type="ORG">Wookiee</name>. As he scoots along, 
 Artoo whistles nervously.</sd>
       <setting>71   EXT FOREST - DENSE FOLIAGE</setting>
       <sd>The group has reached a break in the undergrowth. Chewie walks up to a 
@@ -2443,7 +2443,7 @@ it.</sd>
       <sp>
          <speaker>HAN</speaker>
 Hey, I don't get it.</sp>
-      <sd>The rest of the group joins the <name type="NORP">Wookiee</name> around the stake.</sd>
+      <sd>The rest of the group joins the <name type="ORG">Wookiee</name> around the stake.</sd>
       <sp>
          <speaker>HAN	 (cont)</speaker>
 Nah, it's just a dead animal, Chewie.</sp>
@@ -2451,11 +2451,11 @@ Nah, it's just a dead animal, Chewie.</sp>
       <sp>
          <speaker>LUKE</speaker>
 Chewie, wa-wait!  Don't!</sp>
-      <sd>Too late. The <name type="NORP">Wookiee</name> has already pulled the animal from the stake. 
+      <sd>Too late. The <name type="ORG">Wookiee</name> has already pulled the animal from the stake. 
 SPROOING! The group finds itself hanging upside down in an Ewok net, 
 suspended high above the clearing. Artoo lets out a wild series of 
 beeps and whistles, and Chewie howls his regret. Their bodies are a 
-jumble in the net. Han removes a <name type="NORP">Wookiee</name> paw from his mouth.</sd>
+jumble in the net. Han removes a <name type="ORG">Wookiee</name> paw from his mouth.</sd>
       <sp>
          <speaker>HAN</speaker>
 Nice work. Great, Chewie! Great! Always thinking with your stomach.</sp>
@@ -2681,7 +2681,7 @@ When the <name type="NORP">Ewoks</name> set him upright, the little droid is fig
 beeps a blue streak at the nearest Ewok, and begins pursuing him, 
 finally getting close enough to zap him with an electric charge. The 
 Ewok jumps two feet in the air and runs away, screaming. A small group 
-of <name type="NORP">Ewoks</name> surround the giant <name type="NORP">Wookiee</name>, scratching their heads and 
+of <name type="NORP">Ewoks</name> surround the giant <name type="ORG">Wookiee</name>, scratching their heads and 
 marveling at his height.</sd>
       <sp>
          <speaker>
@@ -2714,7 +2714,7 @@ Wan Kenobi. Artoo begins beeping excitedly at Threepio.</sd>
             <name type="ORG">THREEPIO</name>
          </speaker>
 Yes, Artoo. I was just coming to that.</sp>
-      <sd>Threepio continues with: Millennium <name type="ORG">Falcon</name>, <name type="GPE">Cloud City</name>, Vader, Han 
+      <sd>Threepio continues with: Millennium <name type="ORG">Falcon</name>, <name type="FAC">Cloud City</name>, Vader, Han 
 Solo, carbonite, Sarlacc, bringing the history up to the present time.</sd>
       <sd>At the end of it, the Chief, <name type="ORG">Logray</name>, and the elders confer, then nod in 
 agreement. The Chief stands and makes a pronouncement.</sd>
@@ -3123,7 +3123,7 @@ in pursuit. The fourth watches them go from his post at the door.</sd>
          <speaker>HAN</speaker>
 Not bad for a little furball. There's only one left. You stay here. 
 We'll take care of this.</sp>
-      <sd>Han and the <name type="NORP">Wookiee</name> nod at each other and slip down toward the bunker. 
+      <sd>Han and the <name type="ORG">Wookiee</name> nod at each other and slip down toward the bunker. 
 Threepio moves to stand next to Wicket and Artoo.</sd>
       <sp>
          <speaker>
@@ -3146,20 +3146,20 @@ out a pattern on the bunker door's control panel. Everyone stands out
 of sight, police-style, as the door opens. Han and Leia peek inside. No 
 sign of life. The group enters the bunker silently, leaving one lookout 
 behind.</sd>
-      <setting>90   INT DEATH STAR - <name type="GPE">EMPEROR</name>'S THRONE ROOM</setting>
+      <setting>90   INT DEATH STAR - <name type="ORG">EMPEROR</name>'S THRONE ROOM</setting>
       <sd>The elevator opens. Vader and Luke enter the room alone. They walk 
 across the dark space to stand before the throne, father and son side 
 by side beneath the gaze of <name type="FAC">the Emperor</name>. Vader bows to his Master.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Welcome, young Skywalker. I have been expecting you.</sp>
       <sd>Luke peers at the hooded figure defiantly. The Emperor then looks down 
 at Luke's binders.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 You no longer need those.</sp>
       <sd>The Emperor motions ever so slightly with his finger and Luke's binders 
@@ -3167,13 +3167,13 @@ fall away, clattering to the floor. Luke looks down at his own hands,
 free now to reach out and grab <name type="FAC">the Emperor</name>'s neck. He does nothing.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Guards, leave us.</sp>
       <sd>The red-cloaked guards turn and disappear behind the elevator.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (to Luke)</speaker>
+            <name type="ORG">EMPEROR</name>	 (to Luke)</speaker>
 I'm looking forward to completing your training. In time you will call 
 me Master.</sp>
       <sp>
@@ -3184,7 +3184,7 @@ The Emperor looks into his eyes and, for the first time, Luke can
 perceive the evil visage within the hood.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Oh, no, my young Jedi. You will find that it is you who are 
 mistaken...about a great many things.</sp>
@@ -3195,7 +3195,7 @@ His lightsaber.</sp>
 lightsaber. The Emperor takes it.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Ah, yes, a Jedi's weapon. Much like your father's. By now you must know 
 your father can never be turned from the dark side. So will it be with 
@@ -3206,13 +3206,13 @@ You're wrong. Soon I'll be dead...and you with me.</sp>
       <sd>The Emperor laughs.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Perhaps you refer to the imminent attack of your Rebel fleet.</sp>
       <sd>Luke looks up sharply.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Yes...I assure you we are quite safe from your friends here.</sp>
       <sd>Vader looks at Luke.</sd>
@@ -3221,7 +3221,7 @@ Yes...I assure you we are quite safe from your friends here.</sp>
 Your overconfidence is your weakness.</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Your faith in your friends is yours.</sp>
       <sp>
@@ -3230,14 +3230,14 @@ It is pointless to resist, my son.</sp>
       <sd>The Emperor turns to face Luke.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (angry)</speaker>
+            <name type="ORG">EMPEROR</name>	 (angry)</speaker>
 Everything that has transpired has done so according to my design. 
 (indicates Endor)
 Your friends up there on the <name type="LOC">Sanctuary Moon</name>...</sp>
       <sd>Luke reacts. The Emperor notes it.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (cont)</speaker>
+            <name type="ORG">EMPEROR</name>	 (cont)</speaker>
 ...are walking into a trap. As is your Rebel fleet! It was I who 
 allowed the Alliance to know the location of the shield generator. It 
 is quite safe from your pitiful little band. An entire legion of my 
@@ -3246,7 +3246,7 @@ best troops awaits them.</sp>
 in <name type="FAC">the Emperor</name>'s hand.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Oh...I'm afraid the deflector shield will be quite operational when 
 your friends arrive.</sp>
@@ -3378,19 +3378,19 @@ Accelerate to attack speed! Draw their fire away from the cruisers.</sp>
          <speaker>WEDGE</speaker>
 Copy, <name type="ORG">Gold</name> Leader.</sp>
       <sd>The battle continues around the giant cruisers.</sd>
-      <setting>98   INT DEATH STAR - <name type="GPE">EMPEROR</name>'S THRONE ROOM</setting>
+      <setting>98   INT DEATH STAR - <name type="ORG">EMPEROR</name>'S THRONE ROOM</setting>
       <sd>Through the round window behind <name type="FAC">the Emperor</name>'s throne can be seen the 
 distant flashes of the space battle in progress.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Come, boy. See for yourself.</sp>
       <sd>The Emperor is sitting in his throne, with Vader standing at his side. 
 Luke moves to look through a small section of the window.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 From here you will witness the final destruction of the Alliance, and 
 the end of your insignificant Rebellion.</sp>
@@ -3399,7 +3399,7 @@ of the throne. The Emperor watches him and smiles, touches the
 lightsaber.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 You want this, don't you? The hate is swelling in you now. Take your 
 Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to 
@@ -3411,7 +3411,7 @@ servant.</sp>
 No!</sp>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 It is unavoidable. It is your destiny. You, like your father, are now 
 mine!</sp>
@@ -3559,13 +3559,13 @@ We're not going to attack?</sp>
          <speaker>PIETT</speaker>
 I have my orders from <name type="FAC">the Emperor</name> himself. He has something special 
 planned for them. We only need to keep them from escaping.</sp>
-      <setting>104  INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>104  INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>The Emperor, Vader, and a horrified Luke watch the aerial battle 
 fireworks out the window and on the <name type="FAC">viewscreens</name>. Another Rebel ship 
 explodes against the protective shield.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 As you can see, my young apprentice, your friends have failed. Now 
 witness the firepower of this fully armed and operational battle 
@@ -3588,7 +3588,7 @@ at a control panel.</sd>
       <setting>107  EXT DEATH STAR</setting>
       <sd>The giant laser dish on the completed half of the <name type="ORG">Death Star</name> begins to 
 glow; Then a powerful beams shoots out toward the aerial battle.</sd>
-      <setting>108  EXT SPACE - AIR <name type="ORG">BATTLE</name>
+      <setting>108  EXT SPACE - AIR <name type="GPE">BATTLE</name>
       </setting>
       <sd>The air is thick with giant ships. In among them, Rebel X-wings 
 dogfight with <name type="ORG">Imperial</name>
@@ -3696,13 +3696,13 @@ She's gonna blow!</sp>
 I'm hit!</sd>
       <sd>The damaged Y-wing plummets toward the Star <name type="ORG">Destroyer</name>, and crashes into 
 the control tower, exploding.</sd>
-      <setting>114  INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>114  INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>Out of the window and on the view screens, the Rebel fleet is being 
 decimated in blinding explosions of light and debris. But in here there 
 is no sound of battle. The Emperor turns to Luke.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Your fleet has lost. And your friends on the Endor <name type="LOC">moon</name> will not 
 survive. There is no escape, my young apprentice. The Alliance will 
@@ -3710,7 +3710,7 @@ die...as will your friends.</sp>
       <sd>Luke's eyes are full of rage. Vader watches him.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Good. I can feel your anger. I am defenseless.  Take your weapon! 
 Strike me down with all your hatred, and your journey towards the dark 
@@ -3747,7 +3747,7 @@ the cockpit and knock the second pilot unconscious. The <name type="NORP">Ewoks<
 thrown violently as the mighty machine careens out of control. Outside, 
 Chewie is almost knocked overboard; he sticks his head into the hatch 
 with a series of angry barks. The <name type="NORP">Ewoks</name> are too busy and frightened to 
-listen to the <name type="NORP">Wookiee</name>'s complaint. Chewie slips inside the walker.</sd>
+listen to the <name type="ORG">Wookiee</name>'s complaint. Chewie slips inside the walker.</sd>
       <sd>
          <name type="GPE">Chewbacca</name>'s walker moves through the forest, firing laser blasts at 
 unsuspecting stormtroopers, and destroying other <name type="ORG">Imperial</name> walkers. The 
@@ -3813,7 +3813,7 @@ barks triumphantly.</sd>
       <sp>
          <speaker>HAN</speaker>
 Chewie!  Get down here!  She's wounded!  No, wait....  I got an idea.</sp>
-      <setting>117  INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>117  INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>Luke and Vader are engaged in a man-to-man duel of lightsabers even 
 more vicious then the battle on <name type="GPE">Bespin</name>. But the young Jedi has grown 
 stronger in the interim, and now the advantage shifts to him. Vader is 
@@ -3821,7 +3821,7 @@ forced back, losing his balance, and is knocked down the stairs. Luke
 stands at the top of the stairs, ready to attack.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name> (laughing)</speaker>
+            <name type="ORG">EMPEROR</name> (laughing)</speaker>
 Good.  Use your aggressive feelings, boy!  Let the hate flow through 
 you.</sp>
       <sd>Luke looks momentarily toward <name type="FAC">the Emperor</name>, then back to Vader, and 
@@ -3863,9 +3863,9 @@ in a shower of sparks and rolls out of sight under <name type="FAC">the Emperor<
 platform. Vader moves to find him.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>	 (laughs)</speaker>
+            <name type="ORG">EMPEROR</name>	 (laughs)</speaker>
 Good.  Good.</sp>
-      <setting>118  EXT SPACE - AIR <name type="ORG">BATTLE</name>
+      <setting>118  EXT SPACE - AIR <name type="GPE">BATTLE</name>
       </setting>
       <sd>The two armadas, like their sea-bound ancestors, blast away at each 
 other in individual point-blank confrontations. A Star <name type="ORG">Destroyer</name> 
@@ -3914,7 +3914,7 @@ explosive charges on the control panels and rush out.</sd>
       <sp>
          <speaker>HAN</speaker>
 Throw me another charge.</sp>
-      <setting>122  INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>122  INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>Vader stalks the low-ceilinged area on the level below the throne, 
 searching for Luke in the semi-darkness, his lightsaber held ready.</sd>
       <sp>
@@ -3955,7 +3955,7 @@ over Vader and holds the blade of his sword to the Dark Lord's throat.
 The Emperor watches with uncontrollable, pleased agitation.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Good! Your hate has made you powerful. Now, fulfill your destiny and 
 take your father's
@@ -3972,7 +3972,7 @@ like my father before me.</sp>
       <sd>The Emperor's glee turns to rage.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 So be it...Jedi.</sp>
       <setting>123  EXT FOREST - GENERATOR BUNKER</setting>
@@ -3996,12 +3996,12 @@ We're on our way. Red Group, <name type="ORG">Gold</name> Group, all fighters fo
 Told you they'd do it!</sp>
       <sd>The <name type="ORG">Falcon</name>, followed by several smaller Rebel fighters, heads toward 
 the unfinished superstructure of the <name type="ORG">Death Star</name>.</sd>
-      <setting>125  INT <name type="GPE">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
+      <setting>125  INT <name type="ORG">EMPEROR</name>'S TOWER - THRONE ROOM</setting>
       <sd>Luke stands still, as <name type="FAC">the Emperor</name> reaches the bottom of thestairs. The 
 Emperor's laughter has turned to anger. He raises his arms toward Luke.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 If you will not be turned, you will be destroyed.</sp>
       <sd>Blinding bolts of energy, evil lightning, shoot from <name type="FAC">the Emperor</name>'s 
@@ -4012,7 +4012,7 @@ young Jedi shrinks before them, his knees buckling. The wounded Vader
 struggles to his feet, and moves to stand at his master's side.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Young fool...only now, at the end, do you understand.</sp>
       <sd>Luke is almost unconscious beneath the continuing assault of the 
@@ -4020,7 +4020,7 @@ Emperor's lightning. He clutches a canister to keep from falling into
 the bottomless shaft as the bolts tear through him.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Your feeble skills are no match for the power of the dark side. You 
 have paid the price for
@@ -4034,7 +4034,7 @@ Father, please. Help me.</sp>
 then back to Luke on the floor.</sd>
       <sp>
          <speaker>
-            <name type="GPE">EMPEROR</name>
+            <name type="ORG">EMPEROR</name>
          </speaker>
 Now, young Skywalker...you will die.</sp>
       <sd>Although it would not have seemed possible, the outpouring of bolts 
@@ -4056,7 +4056,7 @@ whipped by the wind and he staggers, and collapses toward the
 bottomless hole. Luke crawls to his father's side and pulls him away 
 from the edge of the abyss to safety. Both the young Jedi and the giant 
 warrior are too weak to move.</sd>
-      <setting>126  EXT/INT - SPACE <name type="ORG">BATTLE</name> - FIGHTER AND DEATH STAR</setting>
+      <setting>126  EXT/INT - SPACE <name type="GPE">BATTLE</name> - FIGHTER AND DEATH STAR</setting>
       <sd>Rebel fighters follow the <name type="ORG">Falcon</name> across the surface of the <name type="ORG">Death Star</name> 
 to the unfinished portion, where they dive into the superstructure of 
 the giant battle station, followed by many <name type="ORG">TIE</name> fighters.</sd>
