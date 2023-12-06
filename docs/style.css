@@ -1,9 +1,9 @@
 body {
-background-color: #ff8c00;
-color:white;
+background-color: #FF7D26;
+color:black;
 }
 body#resume {
-    background-color:darkturquoise;
+    background-color:#A3D5FF;
     color:white;
 }
 
@@ -24,13 +24,22 @@ nav ul.menuB li {
   padding-bottom:10vw;
 }
 
-h1 {
-    border: 3px solid black;
-    margin: 50px;
-    text-align: center;
-    width: 60%;
-    margin:2em auto;
+body#index h1 {
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  text-align: left;
+  width: 100%;
 }
+
+body#index p {
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  text-align: left !important;
+  width: 100%;
+}
+
 body#resume h1 {
     border: 3px solid DarkOrange;
     margin: 50px;
