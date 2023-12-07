@@ -7,15 +7,15 @@
     with clear syntax. 
     -->
     <head> <!-- NOT FOR DISPLAY. This is a "meta" area. -->
-        <title>Reflection</title>
+        <title>Graphic Design</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" type="text/css" href="graphic.css" />
         <script type="text/javascript" src="java1.js">/**/</script>
 
     </head>
     
-    <body id="resume">
+    <body>
         
         <nav> 
             <ul class="menuB">
@@ -28,19 +28,22 @@
             </ul>
         </nav>
 
-    <h1>Reflection</h1>
+        <h1>Graphic Design Projects</h1>
+        <div class="portrait">
+            <img src="Images/portrait.JPG" alt="poster"/>
+        </div>
+        <button onclick="showPopup()">Self Portrait</button>
 
-        <section class="resume">
-            
-            <p>while creating both websites I found the processes very interesting. If comparing difficulty, I believe coding on Github with HTML was more of a challenge.
-            There was definitely a large learning curve when it came to getting used to HTML and all of the various rules that one must memorize in order to have a functioning code.
-            Wordpress was much easier to get used to because it gives users templates and clearly explained options that can be selected to make a website.
-            In addition, styling websites is much more difficult on Github using HTML and CSS because there are so many specific rules to remember. Wordpress does a very good job of creating customized
-            styling options to create websites that look great for anything a user would need it for. While Github and HTML coding was more difficult in almost all categories, I felt a great sense of satisfaction when I
-            got my code to function correctly after so much work and learning. There was not much of a learnong curve with wordpress. After a brief introduction, I found everything to be decently self-explanatory.
-            Here is <a href="https://sites.psu.edu/jaxabele/">my Wordpress site</a> that has the exact same content as this site, but created solely on Wordpress. You may see some differences!
-            </p>
-        </section>
+        <div class="poster">
+            <img src="Images/poster.JPG" alt="poster"/>
+        </div>
+        <button onclick="showPopup2()">Animal Abuse Poster</button>
+        
+        <div class="cove">
+            <img src="Images/cove.JPG" alt="poster"/>
+        </div>
+        <button onclick="showPopup3()">Cove Logo</button>
+        
 
     </body>
 </html>
