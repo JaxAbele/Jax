@@ -28,3 +28,22 @@ li a {
 li a:hover {
   background-color: #FFAB35;
 }
+
+.features{
+    margin-top: 20px;
+    padding: 0 1.75em;
+}
+.features p{
+    font-size: 1.05em;
+    line-height: 2em;
+    margin-bottom: 2em;
+    margin-top: 0;
+    color: #fff;
+}
+.features p a{
+    text-decoration: none;
+    color: #fff;
+}
+.features p a:hover{
+    text-decoration: underline;
+}
