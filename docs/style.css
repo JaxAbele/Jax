@@ -1,10 +1,9 @@
 body {
-background-color: #FFAB35;
+margin: 0;
+height: 100vh;
+background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
-}
-body#resume {
-    background-color:#A3D5FF;
-    color:white;
+
 }
 
 .container {
@@ -23,10 +22,6 @@ img {
 
 .text {
   font-size: 30px;
-}
-
-body#gallery {
-    color:black;
 }
 
 ul {

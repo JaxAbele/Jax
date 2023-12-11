@@ -1,5 +1,7 @@
 body {
-background-color: #FFAB35;
+margin: 0;
+height: 100vh;
+background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
 }
 
@@ -29,21 +31,15 @@ li a:hover {
   background-color: #FFAB35;
 }
 
-.features{
-    margin-top: 20px;
-    padding: 0 1.75em;
-}
-.features p{
-    font-size: 1.05em;
-    line-height: 2em;
-    margin-bottom: 2em;
-    margin-top: 0;
-    color: #fff;
-}
-.features p a{
-    text-decoration: none;
-    color: #fff;
-}
-.features p a:hover{
-    text-decoration: underline;
+
+.logo {
+float: left;
+width: 25%;
+margin: 1%;
+box-sizing: border-box;
+    }
+
+svg:hover {
+transform: scale(0.7);
+fill:var(--teal)
 }

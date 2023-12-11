@@ -1,6 +1,9 @@
 body {
-background-color: #FFAB35;
+margin: 0;
+height: 1000vh;
+background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
+
 }
 
 ul {
@@ -46,3 +49,4 @@ position: relative;
   overflow: hidden;
   padding-top: 55%;
 }
+
