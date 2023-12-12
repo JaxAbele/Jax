@@ -3,7 +3,21 @@ margin: 0;
 height: 1000vh;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
+font-family: arial, sans-serif;
 
+}
+
+h1{
+padding: 15px 32px;
+color:white;
+background-color: #333333;
+border: 2px solid white;
+text-align: center;
+}
+
+h3{
+margin: 15px;
+text-decoration: underline;
 }
 
 ul {
@@ -27,6 +41,8 @@ li a {
     padding-bottom:2vw;
     padding-top:2vw;
 }
+
+
 
 li a:hover {
   background-color: #FFAB35;

@@ -1,8 +1,16 @@
 body {
 margin: 0;
 height: 100vh;
-background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
+background: linear-gradient(to bottom right, #a6dcef, #ffb347);
 color:black;
+font-family: arial, sans-serif;
+}
+
+h3{
+  padding: 10px 22px;
+color:white;
+  background-color: #333333;
+  border: 2px solid white;
 }
 
 ul {
@@ -37,9 +45,9 @@ float: left;
 width: 25%;
 margin: 1%;
 box-sizing: border-box;
+text-align: center;
     }
 
 svg:hover {
 transform: scale(0.7);
-fill:var(--teal)
 }

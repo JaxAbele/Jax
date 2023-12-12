@@ -3,8 +3,16 @@ margin: 0;
 height: 350vh;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
+font-family: arial, sans-serif;
+text-align: center;
 }
 
+h1{
+  padding: 15px 32px;
+color:white;
+  background-color: #333333;
+  border: 2px solid white;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -38,19 +46,11 @@ li a:hover {
     grid-gap: 10px;
 }
 
-.portrait button{
-    cursor:pointer;
-}
-
 .poster{
     padding-bottom:2vw;
     padding-top:2vw;
     display:grid;
     grid-gap: 10px;
-}
-
-.poster button{
-    cursor:pointer;
 }
 
 .cove{
@@ -60,6 +60,14 @@ li a:hover {
     grid-gap: 10px;
 }
 
-.cove button{
-    cursor:pointer;
+button {
+  background-color: black;
+  border: 5px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
 }

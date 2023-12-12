@@ -3,6 +3,15 @@ margin: 0;
 height: 500vh;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
+font-family: arial, sans-serif;
+text-align: center;
+}
+
+h1{
+  padding: 15px 32px;
+color:white;
+  background-color: #333333;
+  border: 2px solid white;
 }
 
 ul {
