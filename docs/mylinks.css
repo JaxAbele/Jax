@@ -7,36 +7,36 @@ font-family: arial, sans-serif;
 }
 
 h3{
-  padding: 10px 22px;
+padding: 10px 22px;
 color:white;
-  background-color: #333333;
-  border: 2px solid white;
+background-color: #333333;
+border: 2px solid white;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333;
 }
 
 li {
-  float: left;
+float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-    padding-bottom:2vw;
-    padding-top:2vw;
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+padding-bottom:2vw;
+padding-top:2vw;
 }
 
 li a:hover {
-  background-color: #FFAB35;
+background-color: #FFAB35;
 }
 
 

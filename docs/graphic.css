@@ -1,6 +1,6 @@
 body {
 margin: 0;
-height: 350vh;
+height: 100%;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
 font-family: arial, sans-serif;
@@ -8,66 +8,84 @@ text-align: center;
 }
 
 h1{
-  padding: 15px 32px;
+padding: 15px 32px;
 color:white;
-  background-color: #333333;
-  border: 2px solid white;
+background-color: #333333;
+border: 2px solid white;
 }
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333;
 }
 
 li {
-  float: left;
+float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-  padding-bottom:2vw;
-    padding-top:2vw;
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+padding-bottom:2vw;
+padding-top:2vw;
 }
 
 li a:hover {
-  background-color: #FFAB35;
+background-color: #FFAB35;
 }
 
 .portrait{
-    padding-bottom:2vw;
-    padding-top:2vw;
-    display:grid;
-    grid-gap: 10px;
+padding-bottom:2vw;
+padding-top:2vw;
+display:grid;
+grid-gap: 10px;
 }
 
 .poster{
-    padding-bottom:2vw;
-    padding-top:2vw;
-    display:grid;
-    grid-gap: 10px;
+padding-bottom:2vw;
+padding-top:2vw;
+display:grid;
+grid-gap: 10px;
 }
 
 .cove{
-    padding-bottom:2vw;
-    padding-top:2vw;
-    display:grid;
-    grid-gap: 10px;
+padding-bottom:2vw;
+padding-top:2vw;
+display:grid;
+grid-gap: 10px;
 }
 
 button {
-  background-color: black;
-  border: 5px solid white;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
+background-color: black;
+border: 5px solid white;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
 }
+
+button:hover{
+background-color: white;
+border: 5px solid black;
+color: black;
+}
+
+img {
+max-width: 400px;
+max-height: 6000px;
+border-style: solid;
+border-width: 3px;
+}
+
+img:hover {
+transform: scale(1.05);
+border-color:white;}

@@ -1,10 +1,9 @@
 body {
 margin: 0;
-height: 1000vh;
+height: 100%;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);;
 color:black;
 font-family: arial, sans-serif;
-
 }
 
 h1{
@@ -21,48 +20,46 @@ text-decoration: underline;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333;
 }
 
 li {
-  float: left;
+float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-    padding-bottom:2vw;
-    padding-top:2vw;
+display: block;
+color: white;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+padding-bottom:2vw;
+padding-top:2vw;
 }
 
-
-
 li a:hover {
-  background-color: #FFAB35;
+background-color: #FFAB35;
 }
 
 iframe.video {
 position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+width: 100%;
+height: 100%;
+border: none;
 }
 
 div.youtube {
 position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 55%;
+width: 100%;
+overflow: hidden;
+padding-top: 55%;
 }
 
