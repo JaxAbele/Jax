@@ -22,7 +22,7 @@ border-radius: 50%;
 margin: 20px;
 }
 
-ul {
+.navul {
 list-style-type: none;
 margin: 0;
 padding: 0;
@@ -30,11 +30,11 @@ overflow: hidden;
 background-color: #333333;
 }
 
-li {
+.navli {
 float: left;
 }
 
-li a {
+.navli a {
 display: block;
 color: white;
 text-align: center;
