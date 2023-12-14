@@ -1,6 +1,7 @@
 body {
 margin: 0;
 height: 100vh;
+width: 100%;
 background: linear-gradient(to bottom right, #a6dcef, #ffb347);
 color:black;
 font-family: arial, sans-serif;
@@ -50,4 +51,8 @@ text-align: center;
 
 svg:hover {
 transform: scale(0.7);
+}
+
+p {
+  font-size: 10px;
 }
